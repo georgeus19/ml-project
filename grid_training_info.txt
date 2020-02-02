@@ -1,0 +1,4000 @@
+layers:  1 nodes:  5 data:  full
+Epoch: 0001 cost=2.310184399
+Epoch: 0101 cost=1.137198038
+Epoch: 0201 cost=0.745931844
+Epoch: 0301 cost=0.629593829
+Epoch: 0401 cost=0.573625399
+Epoch: 0501 cost=0.539799386
+Optimization finished
+Train Accuracy: 0.78477776
+Validation Accuracy: 0.748
+layers:  1 nodes:  5 data:  full
+Epoch: 0001 cost=2.700002193
+Epoch: 0101 cost=0.739365796
+Epoch: 0201 cost=0.561722126
+Epoch: 0301 cost=0.501533346
+Epoch: 0401 cost=0.461579664
+Epoch: 0501 cost=0.415120545
+Optimization finished
+Train Accuracy: 0.8605555
+Validation Accuracy: 0.824
+layers:  1 nodes:  5 data:  full
+Epoch: 0001 cost=3.921194368
+Epoch: 0101 cost=0.899478104
+Epoch: 0201 cost=0.715579020
+Epoch: 0301 cost=0.609468924
+Epoch: 0401 cost=0.553589688
+Epoch: 0501 cost=0.523022238
+Optimization finished
+Train Accuracy: 0.832
+Validation Accuracy: 0.816
+layers:  1 nodes:  5 data:  full
+Epoch: 0001 cost=1.758944988
+Epoch: 0101 cost=0.677843511
+Epoch: 0201 cost=0.544741160
+Epoch: 0301 cost=0.492087291
+Epoch: 0401 cost=0.452485068
+Epoch: 0501 cost=0.416620294
+Optimization finished
+Train Accuracy: 0.847
+Validation Accuracy: 0.819
+layers:  1 nodes:  5 data:  full
+Epoch: 0001 cost=2.287667116
+Epoch: 0101 cost=0.847028474
+Epoch: 0201 cost=0.637380977
+Epoch: 0301 cost=0.545165145
+Epoch: 0401 cost=0.501004891
+Epoch: 0501 cost=0.456947380
+Optimization finished
+Train Accuracy: 0.85411114
+Validation Accuracy: 0.832
+layers:  1 nodes:  5 data:  full
+Epoch: 0001 cost=2.266147084
+Epoch: 0101 cost=0.849696404
+Epoch: 0201 cost=0.617580116
+Epoch: 0301 cost=0.511653778
+Epoch: 0401 cost=0.470648471
+Epoch: 0501 cost=0.424559408
+Optimization finished
+Train Accuracy: 0.85911113
+Validation Accuracy: 0.814
+layers:  1 nodes:  5 data:  full
+Epoch: 0001 cost=3.210322910
+Epoch: 0101 cost=1.197328554
+Epoch: 0201 cost=0.922190825
+Epoch: 0301 cost=0.789712018
+Epoch: 0401 cost=0.718435480
+Epoch: 0501 cost=0.467837496
+Optimization finished
+Train Accuracy: 0.8466667
+Validation Accuracy: 0.828
+layers:  1 nodes:  5 data:  full
+Epoch: 0001 cost=1.826254765
+Epoch: 0101 cost=0.880767630
+Epoch: 0201 cost=0.598698841
+Epoch: 0301 cost=0.473472979
+Epoch: 0401 cost=0.446229249
+Epoch: 0501 cost=0.417976518
+Optimization finished
+Train Accuracy: 0.8615556
+Validation Accuracy: 0.818
+layers:  1 nodes:  5 data:  full
+Epoch: 0001 cost=3.204780526
+Epoch: 0101 cost=0.850500127
+Epoch: 0201 cost=0.707549208
+Epoch: 0301 cost=0.642333249
+Epoch: 0401 cost=0.590909594
+Epoch: 0501 cost=0.478882617
+Optimization finished
+Train Accuracy: 0.83566666
+Validation Accuracy: 0.807
+layers:  1 nodes:  5 data:  full
+Epoch: 0001 cost=2.112948630
+Epoch: 0101 cost=1.005527940
+Epoch: 0201 cost=0.732971158
+Epoch: 0301 cost=0.527248237
+Epoch: 0401 cost=0.466701296
+Epoch: 0501 cost=0.449487170
+Optimization finished
+Train Accuracy: 0.8577778
+Validation Accuracy: 0.842
+layers:  1 nodes:  10 data:  full
+Epoch: 0001 cost=4.246770594
+Epoch: 0101 cost=0.779098776
+Epoch: 0201 cost=0.552026345
+Epoch: 0301 cost=0.493077785
+Epoch: 0401 cost=0.419567933
+Epoch: 0501 cost=0.377186828
+Optimization finished
+Train Accuracy: 0.86722225
+Validation Accuracy: 0.83
+layers:  1 nodes:  10 data:  full
+Epoch: 0001 cost=2.082397514
+Epoch: 0101 cost=0.590018398
+Epoch: 0201 cost=0.456101716
+Epoch: 0301 cost=0.384921849
+Epoch: 0401 cost=0.351471143
+Epoch: 0501 cost=0.327684422
+Optimization finished
+Train Accuracy: 0.8852222
+Validation Accuracy: 0.841
+layers:  1 nodes:  10 data:  full
+Epoch: 0001 cost=3.263800965
+Epoch: 0101 cost=0.679309481
+Epoch: 0201 cost=0.500737982
+Epoch: 0301 cost=0.419044935
+Epoch: 0401 cost=0.383049703
+Epoch: 0501 cost=0.349105514
+Optimization finished
+Train Accuracy: 0.8744444
+Validation Accuracy: 0.839
+layers:  1 nodes:  10 data:  full
+Epoch: 0001 cost=2.624661684
+Epoch: 0101 cost=0.635911710
+Epoch: 0201 cost=0.479130636
+Epoch: 0301 cost=0.404900173
+Epoch: 0401 cost=0.377494262
+Epoch: 0501 cost=0.363655537
+Optimization finished
+Train Accuracy: 0.8781111
+Validation Accuracy: 0.838
+layers:  1 nodes:  10 data:  full
+Epoch: 0001 cost=3.489150471
+Epoch: 0101 cost=0.657173455
+Epoch: 0201 cost=0.494143539
+Epoch: 0301 cost=0.411852962
+Epoch: 0401 cost=0.379288028
+Epoch: 0501 cost=0.365516510
+Optimization finished
+Train Accuracy: 0.8704444
+Validation Accuracy: 0.827
+layers:  1 nodes:  10 data:  full
+Epoch: 0001 cost=2.107036153
+Epoch: 0101 cost=0.596734795
+Epoch: 0201 cost=0.440182620
+Epoch: 0301 cost=0.370038612
+Epoch: 0401 cost=0.334830814
+Epoch: 0501 cost=0.293860197
+Optimization finished
+Train Accuracy: 0.88722223
+Validation Accuracy: 0.826
+layers:  1 nodes:  10 data:  full
+Epoch: 0001 cost=4.529553519
+Epoch: 0101 cost=0.855089850
+Epoch: 0201 cost=0.580553333
+Epoch: 0301 cost=0.465330544
+Epoch: 0401 cost=0.421101600
+Epoch: 0501 cost=0.387887968
+Optimization finished
+Train Accuracy: 0.86455554
+Validation Accuracy: 0.836
+layers:  1 nodes:  10 data:  full
+Epoch: 0001 cost=2.640937037
+Epoch: 0101 cost=0.603335215
+Epoch: 0201 cost=0.476461420
+Epoch: 0301 cost=0.410030835
+Epoch: 0401 cost=0.363805950
+Epoch: 0501 cost=0.331137488
+Optimization finished
+Train Accuracy: 0.8848889
+Validation Accuracy: 0.83
+layers:  1 nodes:  10 data:  full
+Epoch: 0001 cost=2.460014343
+Epoch: 0101 cost=0.568331308
+Epoch: 0201 cost=0.447016415
+Epoch: 0301 cost=0.391800549
+Epoch: 0401 cost=0.347846087
+Epoch: 0501 cost=0.330317282
+Optimization finished
+Train Accuracy: 0.8871111
+Validation Accuracy: 0.834
+layers:  1 nodes:  10 data:  full
+Epoch: 0001 cost=2.043779082
+Epoch: 0101 cost=0.594899336
+Epoch: 0201 cost=0.468398220
+Epoch: 0301 cost=0.410242180
+Epoch: 0401 cost=0.350398603
+Epoch: 0501 cost=0.335307545
+Optimization finished
+Train Accuracy: 0.87844443
+Validation Accuracy: 0.852
+layers:  1 nodes:  15 data:  full
+Epoch: 0001 cost=3.117427429
+Epoch: 0101 cost=0.551695436
+Epoch: 0201 cost=0.449279845
+Epoch: 0301 cost=0.377058188
+Epoch: 0401 cost=0.332803630
+Epoch: 0501 cost=0.275341514
+Optimization finished
+Train Accuracy: 0.89944446
+Validation Accuracy: 0.835
+layers:  1 nodes:  15 data:  full
+Epoch: 0001 cost=1.908149785
+Epoch: 0101 cost=0.516969446
+Epoch: 0201 cost=0.422003872
+Epoch: 0301 cost=0.349313007
+Epoch: 0401 cost=0.309817298
+Epoch: 0501 cost=0.271278497
+Optimization finished
+Train Accuracy: 0.9035556
+Validation Accuracy: 0.843
+layers:  1 nodes:  15 data:  full
+Epoch: 0001 cost=2.768686718
+Epoch: 0101 cost=0.507601970
+Epoch: 0201 cost=0.393845773
+Epoch: 0301 cost=0.348291642
+Epoch: 0401 cost=0.313339121
+Epoch: 0501 cost=0.266563987
+Optimization finished
+Train Accuracy: 0.9067778
+Validation Accuracy: 0.843
+layers:  1 nodes:  15 data:  full
+Epoch: 0001 cost=3.378841692
+Epoch: 0101 cost=0.608504964
+Epoch: 0201 cost=0.438469347
+Epoch: 0301 cost=0.385540270
+Epoch: 0401 cost=0.341968801
+Epoch: 0501 cost=0.310901490
+Optimization finished
+Train Accuracy: 0.89455557
+Validation Accuracy: 0.843
+layers:  1 nodes:  15 data:  full
+Epoch: 0001 cost=2.986743503
+Epoch: 0101 cost=0.529030151
+Epoch: 0201 cost=0.394564288
+Epoch: 0301 cost=0.362918764
+Epoch: 0401 cost=0.310237086
+Epoch: 0501 cost=0.285716300
+Optimization finished
+Train Accuracy: 0.8951111
+Validation Accuracy: 0.85
+layers:  1 nodes:  15 data:  full
+Epoch: 0001 cost=2.937912729
+Epoch: 0101 cost=0.520266152
+Epoch: 0201 cost=0.431213650
+Epoch: 0301 cost=0.356949581
+Epoch: 0401 cost=0.319444845
+Epoch: 0501 cost=0.279937726
+Optimization finished
+Train Accuracy: 0.899
+Validation Accuracy: 0.829
+layers:  1 nodes:  15 data:  full
+Epoch: 0001 cost=2.929709620
+Epoch: 0101 cost=0.572978119
+Epoch: 0201 cost=0.447109795
+Epoch: 0301 cost=0.369873189
+Epoch: 0401 cost=0.326836576
+Epoch: 0501 cost=0.302233262
+Optimization finished
+Train Accuracy: 0.89088887
+Validation Accuracy: 0.844
+layers:  1 nodes:  15 data:  full
+Epoch: 0001 cost=3.197772026
+Epoch: 0101 cost=0.536695805
+Epoch: 0201 cost=0.449391822
+Epoch: 0301 cost=0.386364215
+Epoch: 0401 cost=0.337333646
+Epoch: 0501 cost=0.304383914
+Optimization finished
+Train Accuracy: 0.89133334
+Validation Accuracy: 0.815
+layers:  1 nodes:  15 data:  full
+Epoch: 0001 cost=4.579028394
+Epoch: 0101 cost=0.624378224
+Epoch: 0201 cost=0.447658022
+Epoch: 0301 cost=0.383012364
+Epoch: 0401 cost=0.352678110
+Epoch: 0501 cost=0.305011001
+Optimization finished
+Train Accuracy: 0.89244443
+Validation Accuracy: 0.825
+layers:  1 nodes:  15 data:  full
+Epoch: 0001 cost=3.625989676
+Epoch: 0101 cost=0.542240275
+Epoch: 0201 cost=0.415692220
+Epoch: 0301 cost=0.368242648
+Epoch: 0401 cost=0.311110672
+Epoch: 0501 cost=0.288843686
+Optimization finished
+Train Accuracy: 0.89522225
+Validation Accuracy: 0.856
+layers:  1 nodes:  20 data:  full
+Epoch: 0001 cost=5.111005094
+Epoch: 0101 cost=0.593933741
+Epoch: 0201 cost=0.471204085
+Epoch: 0301 cost=0.385519213
+Epoch: 0401 cost=0.362612095
+Epoch: 0501 cost=0.324194637
+Optimization finished
+Train Accuracy: 0.8884444
+Validation Accuracy: 0.828
+layers:  1 nodes:  20 data:  full
+Epoch: 0001 cost=2.740577963
+Epoch: 0101 cost=0.484785759
+Epoch: 0201 cost=0.377125965
+Epoch: 0301 cost=0.326568378
+Epoch: 0401 cost=0.272266575
+Epoch: 0501 cost=0.243321662
+Optimization finished
+Train Accuracy: 0.91966665
+Validation Accuracy: 0.849
+layers:  1 nodes:  20 data:  full
+Epoch: 0001 cost=4.816744963
+Epoch: 0101 cost=0.526005891
+Epoch: 0201 cost=0.428766131
+Epoch: 0301 cost=0.342177927
+Epoch: 0401 cost=0.320605089
+Epoch: 0501 cost=0.277095901
+Optimization finished
+Train Accuracy: 0.9023333
+Validation Accuracy: 0.847
+layers:  1 nodes:  20 data:  full
+Epoch: 0001 cost=5.087960296
+Epoch: 0101 cost=0.600432747
+Epoch: 0201 cost=0.442061838
+Epoch: 0301 cost=0.365567631
+Epoch: 0401 cost=0.319692943
+Epoch: 0501 cost=0.307171928
+Optimization finished
+Train Accuracy: 0.89088887
+Validation Accuracy: 0.829
+layers:  1 nodes:  20 data:  full
+Epoch: 0001 cost=2.990749809
+Epoch: 0101 cost=0.470028099
+Epoch: 0201 cost=0.383432981
+Epoch: 0301 cost=0.325936562
+Epoch: 0401 cost=0.269424940
+Epoch: 0501 cost=0.238597004
+Optimization finished
+Train Accuracy: 0.9164444
+Validation Accuracy: 0.856
+layers:  1 nodes:  20 data:  full
+Epoch: 0001 cost=3.552013318
+Epoch: 0101 cost=0.567648225
+Epoch: 0201 cost=0.413151549
+Epoch: 0301 cost=0.350783593
+Epoch: 0401 cost=0.298683693
+Epoch: 0501 cost=0.267092324
+Optimization finished
+Train Accuracy: 0.9023333
+Validation Accuracy: 0.823
+layers:  1 nodes:  20 data:  full
+Epoch: 0001 cost=3.402163453
+Epoch: 0101 cost=0.503699968
+Epoch: 0201 cost=0.404741350
+Epoch: 0301 cost=0.360709379
+Epoch: 0401 cost=0.300995658
+Epoch: 0501 cost=0.280456973
+Optimization finished
+Train Accuracy: 0.9027778
+Validation Accuracy: 0.841
+layers:  1 nodes:  20 data:  full
+Epoch: 0001 cost=4.118135797
+Epoch: 0101 cost=0.561366452
+Epoch: 0201 cost=0.434284816
+Epoch: 0301 cost=0.379658414
+Epoch: 0401 cost=0.323428760
+Epoch: 0501 cost=0.284810813
+Optimization finished
+Train Accuracy: 0.90033334
+Validation Accuracy: 0.825
+layers:  1 nodes:  20 data:  full
+Epoch: 0001 cost=2.453453302
+Epoch: 0101 cost=0.496469027
+Epoch: 0201 cost=0.378164457
+Epoch: 0301 cost=0.326591389
+Epoch: 0401 cost=0.288420091
+Epoch: 0501 cost=0.244950660
+Optimization finished
+Train Accuracy: 0.91044444
+Validation Accuracy: 0.828
+layers:  1 nodes:  20 data:  full
+Epoch: 0001 cost=2.807597637
+Epoch: 0101 cost=0.527220544
+Epoch: 0201 cost=0.408815046
+Epoch: 0301 cost=0.357563419
+Epoch: 0401 cost=0.306455457
+Epoch: 0501 cost=0.268748869
+Optimization finished
+Train Accuracy: 0.9024444
+Validation Accuracy: 0.855
+layers:  1 nodes:  50 data:  full
+Epoch: 0001 cost=6.188502047
+Epoch: 0101 cost=0.451104744
+Epoch: 0201 cost=0.334326082
+Epoch: 0301 cost=0.269479705
+Epoch: 0401 cost=0.213198092
+Epoch: 0501 cost=0.178013300
+Optimization finished
+Train Accuracy: 0.94277775
+Validation Accuracy: 0.845
+layers:  1 nodes:  50 data:  full
+Epoch: 0001 cost=4.298639748
+Epoch: 0101 cost=0.405339724
+Epoch: 0201 cost=0.288489911
+Epoch: 0301 cost=0.205357709
+Epoch: 0401 cost=0.159818648
+Epoch: 0501 cost=0.123993394
+Optimization finished
+Train Accuracy: 0.96666664
+Validation Accuracy: 0.85
+layers:  1 nodes:  50 data:  full
+Epoch: 0001 cost=7.042550458
+Epoch: 0101 cost=0.401156535
+Epoch: 0201 cost=0.301414536
+Epoch: 0301 cost=0.228216486
+Epoch: 0401 cost=0.179876667
+Epoch: 0501 cost=0.135511758
+Optimization finished
+Train Accuracy: 0.95944446
+Validation Accuracy: 0.851
+layers:  1 nodes:  50 data:  full
+Epoch: 0001 cost=11.564959314
+Epoch: 0101 cost=0.467300339
+Epoch: 0201 cost=0.333228423
+Epoch: 0301 cost=0.269334207
+Epoch: 0401 cost=0.202271241
+Epoch: 0501 cost=0.160777971
+Optimization finished
+Train Accuracy: 0.94644445
+Validation Accuracy: 0.846
+layers:  1 nodes:  50 data:  full
+Epoch: 0001 cost=4.989393923
+Epoch: 0101 cost=0.436122159
+Epoch: 0201 cost=0.305036949
+Epoch: 0301 cost=0.228618696
+Epoch: 0401 cost=0.192613567
+Epoch: 0501 cost=0.137757898
+Optimization finished
+Train Accuracy: 0.95533335
+Validation Accuracy: 0.848
+layers:  1 nodes:  50 data:  full
+Epoch: 0001 cost=5.632804500
+Epoch: 0101 cost=0.440281212
+Epoch: 0201 cost=0.327764945
+Epoch: 0301 cost=0.254473194
+Epoch: 0401 cost=0.193637315
+Epoch: 0501 cost=0.148279879
+Optimization finished
+Train Accuracy: 0.95266664
+Validation Accuracy: 0.846
+layers:  1 nodes:  50 data:  full
+Epoch: 0001 cost=5.594015492
+Epoch: 0101 cost=0.460084193
+Epoch: 0201 cost=0.330661678
+Epoch: 0301 cost=0.253468823
+Epoch: 0401 cost=0.196600391
+Epoch: 0501 cost=0.153772882
+Optimization finished
+Train Accuracy: 0.95133334
+Validation Accuracy: 0.843
+layers:  1 nodes:  50 data:  full
+Epoch: 0001 cost=5.158345911
+Epoch: 0101 cost=0.411439833
+Epoch: 0201 cost=0.293728603
+Epoch: 0301 cost=0.229437080
+Epoch: 0401 cost=0.179388250
+Epoch: 0501 cost=0.144837957
+Optimization finished
+Train Accuracy: 0.9583333
+Validation Accuracy: 0.829
+layers:  1 nodes:  50 data:  full
+Epoch: 0001 cost=2.215083559
+Epoch: 0101 cost=0.382493913
+Epoch: 0201 cost=0.273405378
+Epoch: 0301 cost=0.214067714
+Epoch: 0401 cost=0.157296356
+Epoch: 0501 cost=0.120127968
+Optimization finished
+Train Accuracy: 0.96444446
+Validation Accuracy: 0.847
+layers:  1 nodes:  50 data:  full
+Epoch: 0001 cost=6.114937676
+Epoch: 0101 cost=0.441824900
+Epoch: 0201 cost=0.325441165
+Epoch: 0301 cost=0.244784582
+Epoch: 0401 cost=0.203556187
+Epoch: 0501 cost=0.149504397
+Optimization finished
+Train Accuracy: 0.9534444
+Validation Accuracy: 0.859
+layers:  2 nodes:  5 data:  full
+Epoch: 0001 cost=1.688582884
+Epoch: 0101 cost=0.776074118
+Epoch: 0201 cost=0.564716087
+Epoch: 0301 cost=0.470929248
+Epoch: 0401 cost=0.424090303
+Epoch: 0501 cost=0.387941904
+Optimization finished
+Train Accuracy: 0.8741111
+Validation Accuracy: 0.813
+layers:  2 nodes:  5 data:  full
+Epoch: 0001 cost=2.974030521
+Epoch: 0101 cost=1.177976608
+Epoch: 0201 cost=0.738659700
+Epoch: 0301 cost=0.575333887
+Epoch: 0401 cost=0.486756374
+Epoch: 0501 cost=0.453061746
+Optimization finished
+Train Accuracy: 0.8523333
+Validation Accuracy: 0.825
+layers:  2 nodes:  5 data:  full
+Epoch: 0001 cost=1.845982777
+Epoch: 0101 cost=0.915836917
+Epoch: 0201 cost=0.603248318
+Epoch: 0301 cost=0.501117650
+Epoch: 0401 cost=0.449256543
+Epoch: 0501 cost=0.439763056
+Optimization finished
+Train Accuracy: 0.8562222
+Validation Accuracy: 0.826
+layers:  2 nodes:  5 data:  full
+Epoch: 0001 cost=2.540956285
+Epoch: 0101 cost=1.138779561
+Epoch: 0201 cost=0.798080107
+Epoch: 0301 cost=0.609476176
+Epoch: 0401 cost=0.546821442
+Epoch: 0501 cost=0.469108976
+Optimization finished
+Train Accuracy: 0.85033333
+Validation Accuracy: 0.803
+layers:  2 nodes:  5 data:  full
+Epoch: 0001 cost=2.254017062
+Epoch: 0101 cost=0.982500838
+Epoch: 0201 cost=0.727056331
+Epoch: 0301 cost=0.623330434
+Epoch: 0401 cost=0.517720196
+Epoch: 0501 cost=0.455029458
+Optimization finished
+Train Accuracy: 0.84977776
+Validation Accuracy: 0.814
+layers:  2 nodes:  5 data:  full
+Epoch: 0001 cost=1.693171117
+Epoch: 0101 cost=0.758083794
+Epoch: 0201 cost=0.583303849
+Epoch: 0301 cost=0.484191007
+Epoch: 0401 cost=0.439482543
+Epoch: 0501 cost=0.411292457
+Optimization finished
+Train Accuracy: 0.8628889
+Validation Accuracy: 0.808
+layers:  2 nodes:  5 data:  full
+Epoch: 0001 cost=2.835474597
+Epoch: 0101 cost=1.278805693
+Epoch: 0201 cost=0.835210946
+Epoch: 0301 cost=0.615163313
+Epoch: 0401 cost=0.523897916
+Epoch: 0501 cost=0.491661972
+Optimization finished
+Train Accuracy: 0.841
+Validation Accuracy: 0.813
+layers:  2 nodes:  5 data:  full
+Epoch: 0001 cost=3.899665859
+Epoch: 0101 cost=1.195319520
+Epoch: 0201 cost=0.811071886
+Epoch: 0301 cost=0.617317239
+Epoch: 0401 cost=0.535003887
+Epoch: 0501 cost=0.459769481
+Optimization finished
+Train Accuracy: 0.8477778
+Validation Accuracy: 0.804
+layers:  2 nodes:  5 data:  full
+Epoch: 0001 cost=2.131026136
+Epoch: 0101 cost=0.958687080
+Epoch: 0201 cost=0.665196849
+Epoch: 0301 cost=0.523312039
+Epoch: 0401 cost=0.446834875
+Epoch: 0501 cost=0.397155785
+Optimization finished
+Train Accuracy: 0.86388886
+Validation Accuracy: 0.822
+layers:  2 nodes:  5 data:  full
+Epoch: 0001 cost=2.562060701
+Epoch: 0101 cost=0.972360108
+Epoch: 0201 cost=0.717471818
+Epoch: 0301 cost=0.615203288
+Epoch: 0401 cost=0.519018869
+Epoch: 0501 cost=0.462791900
+Optimization finished
+Train Accuracy: 0.8471111
+Validation Accuracy: 0.818
+layers:  2 nodes:  10 data:  full
+Epoch: 0001 cost=2.561399937
+Epoch: 0101 cost=0.637682974
+Epoch: 0201 cost=0.453812447
+Epoch: 0301 cost=0.392838687
+Epoch: 0401 cost=0.352864113
+Epoch: 0501 cost=0.317888929
+Optimization finished
+Train Accuracy: 0.89244443
+Validation Accuracy: 0.837
+layers:  2 nodes:  10 data:  full
+Epoch: 0001 cost=4.512795342
+Epoch: 0101 cost=0.759487159
+Epoch: 0201 cost=0.540193988
+Epoch: 0301 cost=0.464103046
+Epoch: 0401 cost=0.416731702
+Epoch: 0501 cost=0.380067752
+Optimization finished
+Train Accuracy: 0.8663333
+Validation Accuracy: 0.819
+layers:  2 nodes:  10 data:  full
+Epoch: 0001 cost=2.060520675
+Epoch: 0101 cost=0.590503580
+Epoch: 0201 cost=0.429083450
+Epoch: 0301 cost=0.413073940
+Epoch: 0401 cost=0.342117882
+Epoch: 0501 cost=0.305742376
+Optimization finished
+Train Accuracy: 0.89077777
+Validation Accuracy: 0.851
+layers:  2 nodes:  10 data:  full
+Epoch: 0001 cost=2.095909251
+Epoch: 0101 cost=0.553016517
+Epoch: 0201 cost=0.428124107
+Epoch: 0301 cost=0.374854608
+Epoch: 0401 cost=0.338553333
+Epoch: 0501 cost=0.307740973
+Optimization finished
+Train Accuracy: 0.89433336
+Validation Accuracy: 0.83
+layers:  2 nodes:  10 data:  full
+Epoch: 0001 cost=3.376804696
+Epoch: 0101 cost=0.686793248
+Epoch: 0201 cost=0.528711498
+Epoch: 0301 cost=0.453440196
+Epoch: 0401 cost=0.435072783
+Epoch: 0501 cost=0.394862980
+Optimization finished
+Train Accuracy: 0.874
+Validation Accuracy: 0.846
+layers:  2 nodes:  10 data:  full
+Epoch: 0001 cost=2.813812574
+Epoch: 0101 cost=0.581208163
+Epoch: 0201 cost=0.434412814
+Epoch: 0301 cost=0.373749842
+Epoch: 0401 cost=0.345428897
+Epoch: 0501 cost=0.327228828
+Optimization finished
+Train Accuracy: 0.89622223
+Validation Accuracy: 0.808
+layers:  2 nodes:  10 data:  full
+Epoch: 0001 cost=2.873032278
+Epoch: 0101 cost=0.654749586
+Epoch: 0201 cost=0.469710184
+Epoch: 0301 cost=0.408624076
+Epoch: 0401 cost=0.381093280
+Epoch: 0501 cost=0.331680149
+Optimization finished
+Train Accuracy: 0.88733333
+Validation Accuracy: 0.852
+layers:  2 nodes:  10 data:  full
+Epoch: 0001 cost=3.485185464
+Epoch: 0101 cost=0.671105047
+Epoch: 0201 cost=0.476711757
+Epoch: 0301 cost=0.394059747
+Epoch: 0401 cost=0.349979874
+Epoch: 0501 cost=0.318757061
+Optimization finished
+Train Accuracy: 0.892
+Validation Accuracy: 0.831
+layers:  2 nodes:  10 data:  full
+Epoch: 0001 cost=3.416843785
+Epoch: 0101 cost=0.662583265
+Epoch: 0201 cost=0.488289055
+Epoch: 0301 cost=0.402896686
+Epoch: 0401 cost=0.385535816
+Epoch: 0501 cost=0.346036235
+Optimization finished
+Train Accuracy: 0.88177776
+Validation Accuracy: 0.803
+layers:  2 nodes:  10 data:  full
+Epoch: 0001 cost=3.892715189
+Epoch: 0101 cost=0.722215957
+Epoch: 0201 cost=0.479130917
+Epoch: 0301 cost=0.415181216
+Epoch: 0401 cost=0.380165256
+Epoch: 0501 cost=0.337399231
+Optimization finished
+Train Accuracy: 0.87288886
+Validation Accuracy: 0.834
+layers:  2 nodes:  15 data:  full
+Epoch: 0001 cost=3.045179023
+Epoch: 0101 cost=0.515940872
+Epoch: 0201 cost=0.392952998
+Epoch: 0301 cost=0.338469300
+Epoch: 0401 cost=0.297354380
+Epoch: 0501 cost=0.251458738
+Optimization finished
+Train Accuracy: 0.907
+Validation Accuracy: 0.839
+layers:  2 nodes:  15 data:  full
+Epoch: 0001 cost=2.554509030
+Epoch: 0101 cost=0.503779471
+Epoch: 0201 cost=0.387812151
+Epoch: 0301 cost=0.325559914
+Epoch: 0401 cost=0.288702160
+Epoch: 0501 cost=0.259354050
+Optimization finished
+Train Accuracy: 0.91055554
+Validation Accuracy: 0.853
+layers:  2 nodes:  15 data:  full
+Epoch: 0001 cost=3.444637802
+Epoch: 0101 cost=0.567006071
+Epoch: 0201 cost=0.416923748
+Epoch: 0301 cost=0.355260130
+Epoch: 0401 cost=0.305336254
+Epoch: 0501 cost=0.276160131
+Optimization finished
+Train Accuracy: 0.9023333
+Validation Accuracy: 0.847
+layers:  2 nodes:  15 data:  full
+Epoch: 0001 cost=3.193699996
+Epoch: 0101 cost=0.576790558
+Epoch: 0201 cost=0.425060136
+Epoch: 0301 cost=0.368342224
+Epoch: 0401 cost=0.331059966
+Epoch: 0501 cost=0.281261923
+Optimization finished
+Train Accuracy: 0.8986667
+Validation Accuracy: 0.831
+layers:  2 nodes:  15 data:  full
+Epoch: 0001 cost=4.367068132
+Epoch: 0101 cost=0.630801002
+Epoch: 0201 cost=0.473067724
+Epoch: 0301 cost=0.408974575
+Epoch: 0401 cost=0.365154237
+Epoch: 0501 cost=0.308624006
+Optimization finished
+Train Accuracy: 0.88566667
+Validation Accuracy: 0.845
+layers:  2 nodes:  15 data:  full
+Epoch: 0001 cost=4.188576884
+Epoch: 0101 cost=0.599612541
+Epoch: 0201 cost=0.458452695
+Epoch: 0301 cost=0.377173470
+Epoch: 0401 cost=0.325466838
+Epoch: 0501 cost=0.295224428
+Optimization finished
+Train Accuracy: 0.90011114
+Validation Accuracy: 0.812
+layers:  2 nodes:  15 data:  full
+Epoch: 0001 cost=2.010029687
+Epoch: 0101 cost=0.482893844
+Epoch: 0201 cost=0.368653099
+Epoch: 0301 cost=0.318411042
+Epoch: 0401 cost=0.283226291
+Epoch: 0501 cost=0.253736595
+Optimization finished
+Train Accuracy: 0.9126667
+Validation Accuracy: 0.848
+layers:  2 nodes:  15 data:  full
+Epoch: 0001 cost=2.757629527
+Epoch: 0101 cost=0.507636120
+Epoch: 0201 cost=0.406048639
+Epoch: 0301 cost=0.349074244
+Epoch: 0401 cost=0.302043762
+Epoch: 0501 cost=0.277548704
+Optimization finished
+Train Accuracy: 0.9017778
+Validation Accuracy: 0.825
+layers:  2 nodes:  15 data:  full
+Epoch: 0001 cost=1.713065134
+Epoch: 0101 cost=0.455481016
+Epoch: 0201 cost=0.353301939
+Epoch: 0301 cost=0.306506018
+Epoch: 0401 cost=0.253192344
+Epoch: 0501 cost=0.255408393
+Optimization finished
+Train Accuracy: 0.92055553
+Validation Accuracy: 0.824
+layers:  2 nodes:  15 data:  full
+Epoch: 0001 cost=3.245570368
+Epoch: 0101 cost=0.568862412
+Epoch: 0201 cost=0.424617281
+Epoch: 0301 cost=0.337410592
+Epoch: 0401 cost=0.303465631
+Epoch: 0501 cost=0.279238198
+Optimization finished
+Train Accuracy: 0.907
+Validation Accuracy: 0.867
+layers:  2 nodes:  20 data:  full
+Epoch: 0001 cost=2.200752417
+Epoch: 0101 cost=0.473978036
+Epoch: 0201 cost=0.375692646
+Epoch: 0301 cost=0.319887827
+Epoch: 0401 cost=0.274975985
+Epoch: 0501 cost=0.235272467
+Optimization finished
+Train Accuracy: 0.913
+Validation Accuracy: 0.815
+layers:  2 nodes:  20 data:  full
+Epoch: 0001 cost=2.996557342
+Epoch: 0101 cost=0.514618778
+Epoch: 0201 cost=0.392173542
+Epoch: 0301 cost=0.328231646
+Epoch: 0401 cost=0.284485860
+Epoch: 0501 cost=0.256387250
+Optimization finished
+Train Accuracy: 0.913
+Validation Accuracy: 0.83
+layers:  2 nodes:  20 data:  full
+Epoch: 0001 cost=3.059254726
+Epoch: 0101 cost=0.494280491
+Epoch: 0201 cost=0.379077378
+Epoch: 0301 cost=0.326437934
+Epoch: 0401 cost=0.273216681
+Epoch: 0501 cost=0.240551374
+Optimization finished
+Train Accuracy: 0.91888887
+Validation Accuracy: 0.845
+layers:  2 nodes:  20 data:  full
+Epoch: 0001 cost=4.158202065
+Epoch: 0101 cost=0.509921733
+Epoch: 0201 cost=0.395195173
+Epoch: 0301 cost=0.347372217
+Epoch: 0401 cost=0.291983094
+Epoch: 0501 cost=0.259878370
+Optimization finished
+Train Accuracy: 0.90988886
+Validation Accuracy: 0.834
+layers:  2 nodes:  20 data:  full
+Epoch: 0001 cost=2.151069866
+Epoch: 0101 cost=0.469113439
+Epoch: 0201 cost=0.342209816
+Epoch: 0301 cost=0.289516154
+Epoch: 0401 cost=0.268458562
+Epoch: 0501 cost=0.206285861
+Optimization finished
+Train Accuracy: 0.92444444
+Validation Accuracy: 0.844
+layers:  2 nodes:  20 data:  full
+Epoch: 0001 cost=3.421761460
+Epoch: 0101 cost=0.524231427
+Epoch: 0201 cost=0.395306084
+Epoch: 0301 cost=0.322783311
+Epoch: 0401 cost=0.252629209
+Epoch: 0501 cost=0.227257270
+Optimization finished
+Train Accuracy: 0.9198889
+Validation Accuracy: 0.83
+layers:  2 nodes:  20 data:  full
+Epoch: 0001 cost=2.467282481
+Epoch: 0101 cost=0.514652858
+Epoch: 0201 cost=0.370152904
+Epoch: 0301 cost=0.306843844
+Epoch: 0401 cost=0.271181921
+Epoch: 0501 cost=0.237043661
+Optimization finished
+Train Accuracy: 0.9151111
+Validation Accuracy: 0.837
+layers:  2 nodes:  20 data:  full
+Epoch: 0001 cost=1.542182525
+Epoch: 0101 cost=0.440817840
+Epoch: 0201 cost=0.342632920
+Epoch: 0301 cost=0.286030465
+Epoch: 0401 cost=0.229093374
+Epoch: 0501 cost=0.190916093
+Optimization finished
+Train Accuracy: 0.935
+Validation Accuracy: 0.819
+layers:  2 nodes:  20 data:  full
+Epoch: 0001 cost=2.908961111
+Epoch: 0101 cost=0.505660355
+Epoch: 0201 cost=0.396975776
+Epoch: 0301 cost=0.310793728
+Epoch: 0401 cost=0.273857014
+Epoch: 0501 cost=0.229638267
+Optimization finished
+Train Accuracy: 0.926
+Validation Accuracy: 0.812
+layers:  2 nodes:  20 data:  full
+Epoch: 0001 cost=3.561023209
+Epoch: 0101 cost=0.546244482
+Epoch: 0201 cost=0.392172277
+Epoch: 0301 cost=0.322536806
+Epoch: 0401 cost=0.277892083
+Epoch: 0501 cost=0.244339262
+Optimization finished
+Train Accuracy: 0.9167778
+Validation Accuracy: 0.856
+layers:  2 nodes:  50 data:  full
+Epoch: 0001 cost=3.796550009
+Epoch: 0101 cost=0.371213234
+Epoch: 0201 cost=0.268486354
+Epoch: 0301 cost=0.202946340
+Epoch: 0401 cost=0.145911647
+Epoch: 0501 cost=0.097948662
+Optimization finished
+Train Accuracy: 0.9723333
+Validation Accuracy: 0.845
+layers:  2 nodes:  50 data:  full
+Epoch: 0001 cost=5.323939641
+Epoch: 0101 cost=0.402504487
+Epoch: 0201 cost=0.266528034
+Epoch: 0301 cost=0.193037035
+Epoch: 0401 cost=0.133703080
+Epoch: 0501 cost=0.090011926
+Optimization finished
+Train Accuracy: 0.9803333
+Validation Accuracy: 0.826
+layers:  2 nodes:  50 data:  full
+Epoch: 0001 cost=6.493445767
+Epoch: 0101 cost=0.379950609
+Epoch: 0201 cost=0.258229348
+Epoch: 0301 cost=0.204259947
+Epoch: 0401 cost=0.141472467
+Epoch: 0501 cost=0.098708609
+Optimization finished
+Train Accuracy: 0.9732222
+Validation Accuracy: 0.847
+layers:  2 nodes:  50 data:  full
+Epoch: 0001 cost=3.251815981
+Epoch: 0101 cost=0.376213686
+Epoch: 0201 cost=0.267681680
+Epoch: 0301 cost=0.181548140
+Epoch: 0401 cost=0.121634953
+Epoch: 0501 cost=0.079767090
+Optimization finished
+Train Accuracy: 0.97911114
+Validation Accuracy: 0.849
+layers:  2 nodes:  50 data:  full
+Epoch: 0001 cost=3.571196530
+Epoch: 0101 cost=0.375037779
+Epoch: 0201 cost=0.272114810
+Epoch: 0301 cost=0.188016042
+Epoch: 0401 cost=0.128823718
+Epoch: 0501 cost=0.089249392
+Optimization finished
+Train Accuracy: 0.97744447
+Validation Accuracy: 0.852
+layers:  2 nodes:  50 data:  full
+Epoch: 0001 cost=6.337249809
+Epoch: 0101 cost=0.374556349
+Epoch: 0201 cost=0.250063404
+Epoch: 0301 cost=0.181758940
+Epoch: 0401 cost=0.131564862
+Epoch: 0501 cost=0.089176974
+Optimization finished
+Train Accuracy: 0.9776667
+Validation Accuracy: 0.821
+layers:  2 nodes:  50 data:  full
+Epoch: 0001 cost=3.958752129
+Epoch: 0101 cost=0.389736146
+Epoch: 0201 cost=0.272945823
+Epoch: 0301 cost=0.196977345
+Epoch: 0401 cost=0.128269773
+Epoch: 0501 cost=0.089845939
+Optimization finished
+Train Accuracy: 0.9768889
+Validation Accuracy: 0.835
+layers:  2 nodes:  50 data:  full
+Epoch: 0001 cost=3.630276839
+Epoch: 0101 cost=0.382221341
+Epoch: 0201 cost=0.256211094
+Epoch: 0301 cost=0.195256044
+Epoch: 0401 cost=0.127358846
+Epoch: 0501 cost=0.082654884
+Optimization finished
+Train Accuracy: 0.97833335
+Validation Accuracy: 0.845
+layers:  2 nodes:  50 data:  full
+Epoch: 0001 cost=4.168762684
+Epoch: 0101 cost=0.387119684
+Epoch: 0201 cost=0.270385476
+Epoch: 0301 cost=0.201336139
+Epoch: 0401 cost=0.134668301
+Epoch: 0501 cost=0.097376091
+Optimization finished
+Train Accuracy: 0.9727778
+Validation Accuracy: 0.843
+layers:  2 nodes:  50 data:  full
+Epoch: 0001 cost=7.768680573
+Epoch: 0101 cost=0.402574284
+Epoch: 0201 cost=0.272216886
+Epoch: 0301 cost=0.202065446
+Epoch: 0401 cost=0.146873023
+Epoch: 0501 cost=0.092215747
+Optimization finished
+Train Accuracy: 0.97477776
+Validation Accuracy: 0.863
+layers:  3 nodes:  5 data:  full
+Epoch: 0001 cost=2.221903669
+Epoch: 0101 cost=0.942731089
+Epoch: 0201 cost=0.600600196
+Epoch: 0301 cost=0.467535794
+Epoch: 0401 cost=0.428382075
+Epoch: 0501 cost=0.394014107
+Optimization finished
+Train Accuracy: 0.864
+Validation Accuracy: 0.818
+layers:  3 nodes:  5 data:  full
+Epoch: 0001 cost=1.766487916
+Epoch: 0101 cost=0.846152478
+Epoch: 0201 cost=0.566673319
+Epoch: 0301 cost=0.479470058
+Epoch: 0401 cost=0.445002311
+Epoch: 0501 cost=0.428242743
+Optimization finished
+Train Accuracy: 0.86233336
+Validation Accuracy: 0.816
+layers:  3 nodes:  5 data:  full
+Epoch: 0001 cost=2.160411702
+Epoch: 0101 cost=1.211474313
+Epoch: 0201 cost=0.995640801
+Epoch: 0301 cost=0.667568240
+Epoch: 0401 cost=0.541858196
+Epoch: 0501 cost=0.471917623
+Optimization finished
+Train Accuracy: 0.84344447
+Validation Accuracy: 0.822
+layers:  3 nodes:  5 data:  full
+Epoch: 0001 cost=2.512146950
+Epoch: 0101 cost=0.968071798
+Epoch: 0201 cost=0.719047348
+Epoch: 0301 cost=0.597878390
+Epoch: 0401 cost=0.538187709
+Epoch: 0501 cost=0.455142667
+Optimization finished
+Train Accuracy: 0.8512222
+Validation Accuracy: 0.803
+layers:  3 nodes:  5 data:  full
+Epoch: 0001 cost=2.790087620
+Epoch: 0101 cost=1.061846746
+Epoch: 0201 cost=0.719885449
+Epoch: 0301 cost=0.546296861
+Epoch: 0401 cost=0.484136519
+Epoch: 0501 cost=0.445351309
+Optimization finished
+Train Accuracy: 0.85888886
+Validation Accuracy: 0.835
+layers:  3 nodes:  5 data:  full
+Epoch: 0001 cost=2.877565993
+Epoch: 0101 cost=1.274047799
+Epoch: 0201 cost=1.141937653
+Epoch: 0301 cost=0.829424746
+Epoch: 0401 cost=0.752319561
+Epoch: 0501 cost=0.700842579
+Optimization finished
+Train Accuracy: 0.75655556
+Validation Accuracy: 0.717
+layers:  3 nodes:  5 data:  full
+Epoch: 0001 cost=1.936263879
+Epoch: 0101 cost=0.961291995
+Epoch: 0201 cost=0.723546101
+Epoch: 0301 cost=0.608673380
+Epoch: 0401 cost=0.515645766
+Epoch: 0501 cost=0.474436449
+Optimization finished
+Train Accuracy: 0.8513333
+Validation Accuracy: 0.82
+layers:  3 nodes:  5 data:  full
+Epoch: 0001 cost=1.739683112
+Epoch: 0101 cost=0.983690884
+Epoch: 0201 cost=0.589265936
+Epoch: 0301 cost=0.520685848
+Epoch: 0401 cost=0.479055487
+Epoch: 0501 cost=0.437634236
+Optimization finished
+Train Accuracy: 0.84522223
+Validation Accuracy: 0.798
+layers:  3 nodes:  5 data:  full
+Epoch: 0001 cost=1.894224074
+Epoch: 0101 cost=1.037412286
+Epoch: 0201 cost=0.831917948
+Epoch: 0301 cost=0.649169876
+Epoch: 0401 cost=0.554546005
+Epoch: 0501 cost=0.517130845
+Optimization finished
+Train Accuracy: 0.7865555
+Validation Accuracy: 0.763
+layers:  3 nodes:  5 data:  full
+Epoch: 0001 cost=1.833471007
+Epoch: 0101 cost=0.852104273
+Epoch: 0201 cost=0.589299970
+Epoch: 0301 cost=0.503585266
+Epoch: 0401 cost=0.467459990
+Epoch: 0501 cost=0.442908413
+Optimization finished
+Train Accuracy: 0.8516667
+Validation Accuracy: 0.825
+layers:  3 nodes:  10 data:  full
+Epoch: 0001 cost=3.027188434
+Epoch: 0101 cost=0.729711427
+Epoch: 0201 cost=0.480472707
+Epoch: 0301 cost=0.387741314
+Epoch: 0401 cost=0.356832044
+Epoch: 0501 cost=0.307720847
+Optimization finished
+Train Accuracy: 0.89577776
+Validation Accuracy: 0.841
+layers:  3 nodes:  10 data:  full
+Epoch: 0001 cost=2.760101636
+Epoch: 0101 cost=0.624937925
+Epoch: 0201 cost=0.454498854
+Epoch: 0301 cost=0.399521864
+Epoch: 0401 cost=0.352047516
+Epoch: 0501 cost=0.325794111
+Optimization finished
+Train Accuracy: 0.8836667
+Validation Accuracy: 0.831
+layers:  3 nodes:  10 data:  full
+Epoch: 0001 cost=2.054227008
+Epoch: 0101 cost=0.578542166
+Epoch: 0201 cost=0.433277329
+Epoch: 0301 cost=0.359110759
+Epoch: 0401 cost=0.340137564
+Epoch: 0501 cost=0.291716499
+Optimization finished
+Train Accuracy: 0.8927778
+Validation Accuracy: 0.841
+layers:  3 nodes:  10 data:  full
+Epoch: 0001 cost=3.569138394
+Epoch: 0101 cost=0.738306695
+Epoch: 0201 cost=0.584918777
+Epoch: 0301 cost=0.462044458
+Epoch: 0401 cost=0.404359801
+Epoch: 0501 cost=0.362700664
+Optimization finished
+Train Accuracy: 0.87333333
+Validation Accuracy: 0.821
+layers:  3 nodes:  10 data:  full
+Epoch: 0001 cost=1.841283838
+Epoch: 0101 cost=0.601940453
+Epoch: 0201 cost=0.453380177
+Epoch: 0301 cost=0.381713046
+Epoch: 0401 cost=0.346545719
+Epoch: 0501 cost=0.315485206
+Optimization finished
+Train Accuracy: 0.8858889
+Validation Accuracy: 0.845
+layers:  3 nodes:  10 data:  full
+Epoch: 0001 cost=2.009474966
+Epoch: 0101 cost=0.574848778
+Epoch: 0201 cost=0.458846943
+Epoch: 0301 cost=0.416947259
+Epoch: 0401 cost=0.376558135
+Epoch: 0501 cost=0.320614590
+Optimization finished
+Train Accuracy: 0.8844444
+Validation Accuracy: 0.812
+layers:  3 nodes:  10 data:  full
+Epoch: 0001 cost=2.840639697
+Epoch: 0101 cost=0.660488433
+Epoch: 0201 cost=0.462449905
+Epoch: 0301 cost=0.384020322
+Epoch: 0401 cost=0.334640059
+Epoch: 0501 cost=0.328173276
+Optimization finished
+Train Accuracy: 0.892
+Validation Accuracy: 0.86
+layers:  3 nodes:  10 data:  full
+Epoch: 0001 cost=2.620274491
+Epoch: 0101 cost=0.687586857
+Epoch: 0201 cost=0.448132227
+Epoch: 0301 cost=0.391448127
+Epoch: 0401 cost=0.327318238
+Epoch: 0501 cost=0.315771477
+Optimization finished
+Train Accuracy: 0.8985556
+Validation Accuracy: 0.833
+layers:  3 nodes:  10 data:  full
+Epoch: 0001 cost=2.789991034
+Epoch: 0101 cost=0.641034583
+Epoch: 0201 cost=0.450924065
+Epoch: 0301 cost=0.371308807
+Epoch: 0401 cost=0.334662361
+Epoch: 0501 cost=0.310706837
+Optimization finished
+Train Accuracy: 0.8968889
+Validation Accuracy: 0.832
+layers:  3 nodes:  10 data:  full
+Epoch: 0001 cost=2.271196047
+Epoch: 0101 cost=0.581574149
+Epoch: 0201 cost=0.425898982
+Epoch: 0301 cost=0.361879670
+Epoch: 0401 cost=0.318536580
+Epoch: 0501 cost=0.300230799
+Optimization finished
+Train Accuracy: 0.90433335
+Validation Accuracy: 0.853
+layers:  3 nodes:  15 data:  full
+Epoch: 0001 cost=3.594985909
+Epoch: 0101 cost=0.530594895
+Epoch: 0201 cost=0.382501079
+Epoch: 0301 cost=0.326686727
+Epoch: 0401 cost=0.299300747
+Epoch: 0501 cost=0.243669242
+Optimization finished
+Train Accuracy: 0.91355556
+Validation Accuracy: 0.838
+layers:  3 nodes:  15 data:  full
+Epoch: 0001 cost=2.693693638
+Epoch: 0101 cost=0.518907901
+Epoch: 0201 cost=0.407545977
+Epoch: 0301 cost=0.346140729
+Epoch: 0401 cost=0.297245065
+Epoch: 0501 cost=0.274077353
+Optimization finished
+Train Accuracy: 0.9073333
+Validation Accuracy: 0.838
+layers:  3 nodes:  15 data:  full
+Epoch: 0001 cost=3.013812039
+Epoch: 0101 cost=0.532193505
+Epoch: 0201 cost=0.394276291
+Epoch: 0301 cost=0.332262334
+Epoch: 0401 cost=0.294409692
+Epoch: 0501 cost=0.263047823
+Optimization finished
+Train Accuracy: 0.91366667
+Validation Accuracy: 0.852
+layers:  3 nodes:  15 data:  full
+Epoch: 0001 cost=2.095082707
+Epoch: 0101 cost=0.466025346
+Epoch: 0201 cost=0.359471808
+Epoch: 0301 cost=0.318479783
+Epoch: 0401 cost=0.286731157
+Epoch: 0501 cost=0.240720979
+Optimization finished
+Train Accuracy: 0.91866666
+Validation Accuracy: 0.83
+layers:  3 nodes:  15 data:  full
+Epoch: 0001 cost=4.865129895
+Epoch: 0101 cost=0.607787225
+Epoch: 0201 cost=0.429509232
+Epoch: 0301 cost=0.339313557
+Epoch: 0401 cost=0.309322291
+Epoch: 0501 cost=0.275029883
+Optimization finished
+Train Accuracy: 0.904
+Validation Accuracy: 0.836
+layers:  3 nodes:  15 data:  full
+Epoch: 0001 cost=2.950681660
+Epoch: 0101 cost=0.506420132
+Epoch: 0201 cost=0.374641448
+Epoch: 0301 cost=0.299299084
+Epoch: 0401 cost=0.271384319
+Epoch: 0501 cost=0.243292252
+Optimization finished
+Train Accuracy: 0.9181111
+Validation Accuracy: 0.826
+layers:  3 nodes:  15 data:  full
+Epoch: 0001 cost=6.021595637
+Epoch: 0101 cost=0.685925682
+Epoch: 0201 cost=0.474743442
+Epoch: 0301 cost=0.397112290
+Epoch: 0401 cost=0.341455585
+Epoch: 0501 cost=0.322088069
+Optimization finished
+Train Accuracy: 0.8942222
+Validation Accuracy: 0.848
+layers:  3 nodes:  15 data:  full
+Epoch: 0001 cost=2.070722315
+Epoch: 0101 cost=0.484389361
+Epoch: 0201 cost=0.365468519
+Epoch: 0301 cost=0.304753029
+Epoch: 0401 cost=0.266907619
+Epoch: 0501 cost=0.256722829
+Optimization finished
+Train Accuracy: 0.9213333
+Validation Accuracy: 0.819
+layers:  3 nodes:  15 data:  full
+Epoch: 0001 cost=4.656122049
+Epoch: 0101 cost=0.559926728
+Epoch: 0201 cost=0.417812334
+Epoch: 0301 cost=0.350394560
+Epoch: 0401 cost=0.296120716
+Epoch: 0501 cost=0.278617927
+Optimization finished
+Train Accuracy: 0.91055554
+Validation Accuracy: 0.827
+layers:  3 nodes:  15 data:  full
+Epoch: 0001 cost=3.404418680
+Epoch: 0101 cost=0.542197420
+Epoch: 0201 cost=0.407273564
+Epoch: 0301 cost=0.331235485
+Epoch: 0401 cost=0.302505927
+Epoch: 0501 cost=0.259979655
+Optimization finished
+Train Accuracy: 0.9087778
+Validation Accuracy: 0.854
+layers:  3 nodes:  20 data:  full
+Epoch: 0001 cost=2.786869605
+Epoch: 0101 cost=0.440699557
+Epoch: 0201 cost=0.340419961
+Epoch: 0301 cost=0.289028436
+Epoch: 0401 cost=0.247959894
+Epoch: 0501 cost=0.210053954
+Optimization finished
+Train Accuracy: 0.933
+Validation Accuracy: 0.839
+layers:  3 nodes:  20 data:  full
+Epoch: 0001 cost=4.407609516
+Epoch: 0101 cost=0.510340797
+Epoch: 0201 cost=0.381523341
+Epoch: 0301 cost=0.310727851
+Epoch: 0401 cost=0.265944024
+Epoch: 0501 cost=0.217665838
+Optimization finished
+Train Accuracy: 0.9266667
+Validation Accuracy: 0.845
+layers:  3 nodes:  20 data:  full
+Epoch: 0001 cost=5.457853953
+Epoch: 0101 cost=0.523538106
+Epoch: 0201 cost=0.379216353
+Epoch: 0301 cost=0.334544884
+Epoch: 0401 cost=0.280875100
+Epoch: 0501 cost=0.253726583
+Optimization finished
+Train Accuracy: 0.9212222
+Validation Accuracy: 0.845
+layers:  3 nodes:  20 data:  full
+Epoch: 0001 cost=6.103000747
+Epoch: 0101 cost=0.521441665
+Epoch: 0201 cost=0.413249592
+Epoch: 0301 cost=0.311187824
+Epoch: 0401 cost=0.272281173
+Epoch: 0501 cost=0.224595628
+Optimization finished
+Train Accuracy: 0.92311114
+Validation Accuracy: 0.845
+layers:  3 nodes:  20 data:  full
+Epoch: 0001 cost=4.310340299
+Epoch: 0101 cost=0.497052928
+Epoch: 0201 cost=0.382358842
+Epoch: 0301 cost=0.305463367
+Epoch: 0401 cost=0.268017767
+Epoch: 0501 cost=0.232756065
+Optimization finished
+Train Accuracy: 0.9208889
+Validation Accuracy: 0.836
+layers:  3 nodes:  20 data:  full
+Epoch: 0001 cost=5.466237757
+Epoch: 0101 cost=0.517206944
+Epoch: 0201 cost=0.366554432
+Epoch: 0301 cost=0.315976626
+Epoch: 0401 cost=0.272709053
+Epoch: 0501 cost=0.230538517
+Optimization finished
+Train Accuracy: 0.9216667
+Validation Accuracy: 0.835
+layers:  3 nodes:  20 data:  full
+Epoch: 0001 cost=4.467295382
+Epoch: 0101 cost=0.492506656
+Epoch: 0201 cost=0.365135759
+Epoch: 0301 cost=0.313281523
+Epoch: 0401 cost=0.255305302
+Epoch: 0501 cost=0.232895121
+Optimization finished
+Train Accuracy: 0.91822225
+Validation Accuracy: 0.84
+layers:  3 nodes:  20 data:  full
+Epoch: 0001 cost=3.598540889
+Epoch: 0101 cost=0.480925269
+Epoch: 0201 cost=0.340352456
+Epoch: 0301 cost=0.277372612
+Epoch: 0401 cost=0.242314372
+Epoch: 0501 cost=0.205254992
+Optimization finished
+Train Accuracy: 0.9346667
+Validation Accuracy: 0.822
+layers:  3 nodes:  20 data:  full
+Epoch: 0001 cost=1.962794900
+Epoch: 0101 cost=0.456698315
+Epoch: 0201 cost=0.361013201
+Epoch: 0301 cost=0.272331238
+Epoch: 0401 cost=0.235158856
+Epoch: 0501 cost=0.198766061
+Optimization finished
+Train Accuracy: 0.9351111
+Validation Accuracy: 0.832
+layers:  3 nodes:  20 data:  full
+Epoch: 0001 cost=2.346474806
+Epoch: 0101 cost=0.449250658
+Epoch: 0201 cost=0.360348798
+Epoch: 0301 cost=0.282331465
+Epoch: 0401 cost=0.236930554
+Epoch: 0501 cost=0.202143300
+Optimization finished
+Train Accuracy: 0.9316667
+Validation Accuracy: 0.849
+layers:  3 nodes:  50 data:  full
+Epoch: 0001 cost=1.912075056
+Epoch: 0101 cost=0.340320349
+Epoch: 0201 cost=0.210030882
+Epoch: 0301 cost=0.132792711
+Epoch: 0401 cost=0.075956970
+Epoch: 0501 cost=0.042460314
+Optimization finished
+Train Accuracy: 0.98888886
+Validation Accuracy: 0.84
+layers:  3 nodes:  50 data:  full
+Epoch: 0001 cost=3.660374721
+Epoch: 0101 cost=0.344814003
+Epoch: 0201 cost=0.237013835
+Epoch: 0301 cost=0.159975226
+Epoch: 0401 cost=0.099110651
+Epoch: 0501 cost=0.056889258
+Optimization finished
+Train Accuracy: 0.9865556
+Validation Accuracy: 0.818
+layers:  3 nodes:  50 data:  full
+Epoch: 0001 cost=9.953984367
+Epoch: 0101 cost=0.398298413
+Epoch: 0201 cost=0.271640206
+Epoch: 0301 cost=0.181043905
+Epoch: 0401 cost=0.125003082
+Epoch: 0501 cost=0.079806340
+Optimization finished
+Train Accuracy: 0.9771111
+Validation Accuracy: 0.853
+layers:  3 nodes:  50 data:  full
+Epoch: 0001 cost=2.286583000
+Epoch: 0101 cost=0.325409780
+Epoch: 0201 cost=0.197460671
+Epoch: 0301 cost=0.124605112
+Epoch: 0401 cost=0.061784935
+Epoch: 0501 cost=0.031183993
+Optimization finished
+Train Accuracy: 0.9954444
+Validation Accuracy: 0.828
+layers:  3 nodes:  50 data:  full
+Epoch: 0001 cost=2.924752792
+Epoch: 0101 cost=0.329612235
+Epoch: 0201 cost=0.216147315
+Epoch: 0301 cost=0.124152910
+Epoch: 0401 cost=0.071506673
+Epoch: 0501 cost=0.034480283
+Optimization finished
+Train Accuracy: 0.99377775
+Validation Accuracy: 0.859
+layers:  3 nodes:  50 data:  full
+Epoch: 0001 cost=5.766794417
+Epoch: 0101 cost=0.357131385
+Epoch: 0201 cost=0.238141240
+Epoch: 0301 cost=0.162154536
+Epoch: 0401 cost=0.098875693
+Epoch: 0501 cost=0.055754245
+Optimization finished
+Train Accuracy: 0.98833334
+Validation Accuracy: 0.813
+layers:  3 nodes:  50 data:  full
+Epoch: 0001 cost=3.442410787
+Epoch: 0101 cost=0.347883559
+Epoch: 0201 cost=0.206790490
+Epoch: 0301 cost=0.119851454
+Epoch: 0401 cost=0.062643414
+Epoch: 0501 cost=0.032850837
+Optimization finished
+Train Accuracy: 0.99366665
+Validation Accuracy: 0.844
+layers:  3 nodes:  50 data:  full
+Epoch: 0001 cost=8.872710970
+Epoch: 0101 cost=0.374504228
+Epoch: 0201 cost=0.253215854
+Epoch: 0301 cost=0.186869977
+Epoch: 0401 cost=0.123095168
+Epoch: 0501 cost=0.071683102
+Optimization finished
+Train Accuracy: 0.9827778
+Validation Accuracy: 0.826
+layers:  3 nodes:  50 data:  full
+Epoch: 0001 cost=2.249402232
+Epoch: 0101 cost=0.323399219
+Epoch: 0201 cost=0.186931168
+Epoch: 0301 cost=0.103364909
+Epoch: 0401 cost=0.057134310
+Epoch: 0501 cost=0.022128277
+Optimization finished
+Train Accuracy: 0.99766666
+Validation Accuracy: 0.816
+layers:  3 nodes:  50 data:  full
+Epoch: 0001 cost=4.225434807
+Epoch: 0101 cost=0.340674185
+Epoch: 0201 cost=0.209754992
+Epoch: 0301 cost=0.127331682
+Epoch: 0401 cost=0.073154745
+Epoch: 0501 cost=0.031892060
+Optimization finished
+Train Accuracy: 0.995
+Validation Accuracy: 0.847
+layers:  4 nodes:  5 data:  full
+Epoch: 0001 cost=2.039305925
+Epoch: 0101 cost=1.182263467
+Epoch: 0201 cost=0.916902906
+Epoch: 0301 cost=0.812119908
+Epoch: 0401 cost=0.596670250
+Epoch: 0501 cost=0.518044591
+Optimization finished
+Train Accuracy: 0.84066665
+Validation Accuracy: 0.787
+layers:  4 nodes:  5 data:  full
+Epoch: 0001 cost=3.360341973
+Epoch: 0101 cost=1.408304519
+Epoch: 0201 cost=1.030493220
+Epoch: 0301 cost=0.845111469
+Epoch: 0401 cost=0.705041958
+Epoch: 0501 cost=0.599581056
+Optimization finished
+Train Accuracy: 0.7518889
+Validation Accuracy: 0.725
+layers:  4 nodes:  5 data:  full
+Epoch: 0001 cost=3.512181203
+Epoch: 0101 cost=1.554812948
+Epoch: 0201 cost=1.198373424
+Epoch: 0301 cost=0.884180261
+Epoch: 0401 cost=0.681934363
+Epoch: 0501 cost=0.519074632
+Optimization finished
+Train Accuracy: 0.8318889
+Validation Accuracy: 0.814
+layers:  4 nodes:  5 data:  full
+Epoch: 0001 cost=2.891737461
+Epoch: 0101 cost=1.513196627
+Epoch: 0201 cost=1.014281889
+Epoch: 0301 cost=0.631754332
+Epoch: 0401 cost=0.551038543
+Epoch: 0501 cost=0.507351981
+Optimization finished
+Train Accuracy: 0.85355556
+Validation Accuracy: 0.801
+layers:  4 nodes:  5 data:  full
+Epoch: 0001 cost=2.606939740
+Epoch: 0101 cost=1.477321890
+Epoch: 0201 cost=0.911555661
+Epoch: 0301 cost=0.716106706
+Epoch: 0401 cost=0.618979818
+Epoch: 0501 cost=0.570081989
+Optimization finished
+Train Accuracy: 0.76677775
+Validation Accuracy: 0.752
+layers:  4 nodes:  5 data:  full
+Epoch: 0001 cost=1.809082601
+Epoch: 0101 cost=0.887859676
+Epoch: 0201 cost=0.627799756
+Epoch: 0301 cost=0.526805454
+Epoch: 0401 cost=0.485619826
+Epoch: 0501 cost=0.477600525
+Optimization finished
+Train Accuracy: 0.85911113
+Validation Accuracy: 0.801
+layers:  4 nodes:  5 data:  full
+Epoch: 0001 cost=1.983744383
+Epoch: 0101 cost=1.080533187
+Epoch: 0201 cost=0.609349827
+Epoch: 0301 cost=0.508804222
+Epoch: 0401 cost=0.465543913
+Epoch: 0501 cost=0.418265561
+Optimization finished
+Train Accuracy: 0.8567778
+Validation Accuracy: 0.815
+layers:  4 nodes:  5 data:  full
+Epoch: 0001 cost=3.795275185
+Epoch: 0101 cost=1.589809457
+Epoch: 0201 cost=0.965061181
+Epoch: 0301 cost=0.634045396
+Epoch: 0401 cost=0.519048860
+Epoch: 0501 cost=0.474252946
+Optimization finished
+Train Accuracy: 0.86455554
+Validation Accuracy: 0.804
+layers:  4 nodes:  5 data:  full
+Epoch: 0001 cost=2.201723311
+Epoch: 0101 cost=1.072210709
+Epoch: 0201 cost=0.851872908
+Epoch: 0301 cost=0.690850112
+Epoch: 0401 cost=0.593813452
+Epoch: 0501 cost=0.548703618
+Optimization finished
+Train Accuracy: 0.7912222
+Validation Accuracy: 0.744
+layers:  4 nodes:  5 data:  full
+Epoch: 0001 cost=1.844498038
+Epoch: 0101 cost=1.169489490
+Epoch: 0201 cost=0.872478836
+Epoch: 0301 cost=0.798677689
+Epoch: 0401 cost=0.573068135
+Epoch: 0501 cost=0.499437028
+Optimization finished
+Train Accuracy: 0.846
+Validation Accuracy: 0.847
+layers:  4 nodes:  10 data:  full
+Epoch: 0001 cost=1.705881715
+Epoch: 0101 cost=0.568347851
+Epoch: 0201 cost=0.426312685
+Epoch: 0301 cost=0.368674709
+Epoch: 0401 cost=0.336133841
+Epoch: 0501 cost=0.310016702
+Optimization finished
+Train Accuracy: 0.8968889
+Validation Accuracy: 0.826
+layers:  4 nodes:  10 data:  full
+Epoch: 0001 cost=4.050827768
+Epoch: 0101 cost=0.999648094
+Epoch: 0201 cost=0.549510287
+Epoch: 0301 cost=0.413774749
+Epoch: 0401 cost=0.352616323
+Epoch: 0501 cost=0.336370611
+Optimization finished
+Train Accuracy: 0.88655555
+Validation Accuracy: 0.818
+layers:  4 nodes:  10 data:  full
+Epoch: 0001 cost=2.703036626
+Epoch: 0101 cost=0.636301325
+Epoch: 0201 cost=0.461298198
+Epoch: 0301 cost=0.380191164
+Epoch: 0401 cost=0.354506039
+Epoch: 0501 cost=0.330401318
+Optimization finished
+Train Accuracy: 0.8981111
+Validation Accuracy: 0.851
+layers:  4 nodes:  10 data:  full
+Epoch: 0001 cost=2.863038937
+Epoch: 0101 cost=0.743378209
+Epoch: 0201 cost=0.529886974
+Epoch: 0301 cost=0.436481181
+Epoch: 0401 cost=0.386080782
+Epoch: 0501 cost=0.338941932
+Optimization finished
+Train Accuracy: 0.888
+Validation Accuracy: 0.837
+layers:  4 nodes:  10 data:  full
+Epoch: 0001 cost=2.385194143
+Epoch: 0101 cost=0.747960243
+Epoch: 0201 cost=0.437611981
+Epoch: 0301 cost=0.378923148
+Epoch: 0401 cost=0.351544473
+Epoch: 0501 cost=0.327899711
+Optimization finished
+Train Accuracy: 0.89244443
+Validation Accuracy: 0.844
+layers:  4 nodes:  10 data:  full
+Epoch: 0001 cost=3.473345439
+Epoch: 0101 cost=0.750067790
+Epoch: 0201 cost=0.574342324
+Epoch: 0301 cost=0.482131723
+Epoch: 0401 cost=0.415225453
+Epoch: 0501 cost=0.389677319
+Optimization finished
+Train Accuracy: 0.8746667
+Validation Accuracy: 0.815
+layers:  4 nodes:  10 data:  full
+Epoch: 0001 cost=2.206657701
+Epoch: 0101 cost=0.610036903
+Epoch: 0201 cost=0.465913110
+Epoch: 0301 cost=0.403529018
+Epoch: 0401 cost=0.359477497
+Epoch: 0501 cost=0.334521595
+Optimization finished
+Train Accuracy: 0.8887778
+Validation Accuracy: 0.827
+layers:  4 nodes:  10 data:  full
+Epoch: 0001 cost=2.615441216
+Epoch: 0101 cost=0.635094821
+Epoch: 0201 cost=0.418870793
+Epoch: 0301 cost=0.349318763
+Epoch: 0401 cost=0.326004545
+Epoch: 0501 cost=0.294140610
+Optimization finished
+Train Accuracy: 0.9076667
+Validation Accuracy: 0.831
+layers:  4 nodes:  10 data:  full
+Epoch: 0001 cost=2.829804526
+Epoch: 0101 cost=0.743447430
+Epoch: 0201 cost=0.455304649
+Epoch: 0301 cost=0.358165307
+Epoch: 0401 cost=0.320795129
+Epoch: 0501 cost=0.288911190
+Optimization finished
+Train Accuracy: 0.90488887
+Validation Accuracy: 0.846
+layers:  4 nodes:  10 data:  full
+Epoch: 0001 cost=1.650889953
+Epoch: 0101 cost=0.544248892
+Epoch: 0201 cost=0.432752722
+Epoch: 0301 cost=0.381753322
+Epoch: 0401 cost=0.328462018
+Epoch: 0501 cost=0.322080172
+Optimization finished
+Train Accuracy: 0.89588886
+Validation Accuracy: 0.847
+layers:  4 nodes:  15 data:  full
+Epoch: 0001 cost=2.539737172
+Epoch: 0101 cost=0.474361436
+Epoch: 0201 cost=0.376204679
+Epoch: 0301 cost=0.311051889
+Epoch: 0401 cost=0.264891353
+Epoch: 0501 cost=0.244770494
+Optimization finished
+Train Accuracy: 0.9255555
+Validation Accuracy: 0.819
+layers:  4 nodes:  15 data:  full
+Epoch: 0001 cost=2.195238855
+Epoch: 0101 cost=0.462642696
+Epoch: 0201 cost=0.376005676
+Epoch: 0301 cost=0.320631216
+Epoch: 0401 cost=0.275544600
+Epoch: 0501 cost=0.249762653
+Optimization finished
+Train Accuracy: 0.9177778
+Validation Accuracy: 0.832
+layers:  4 nodes:  15 data:  full
+Epoch: 0001 cost=3.181088765
+Epoch: 0101 cost=0.533981644
+Epoch: 0201 cost=0.411614504
+Epoch: 0301 cost=0.348603070
+Epoch: 0401 cost=0.321060552
+Epoch: 0501 cost=0.273194255
+Optimization finished
+Train Accuracy: 0.90144444
+Validation Accuracy: 0.845
+layers:  4 nodes:  15 data:  full
+Epoch: 0001 cost=4.604578177
+Epoch: 0101 cost=0.592746523
+Epoch: 0201 cost=0.417302986
+Epoch: 0301 cost=0.366225057
+Epoch: 0401 cost=0.331654386
+Epoch: 0501 cost=0.284773034
+Optimization finished
+Train Accuracy: 0.90022224
+Validation Accuracy: 0.83
+layers:  4 nodes:  15 data:  full
+Epoch: 0001 cost=2.361199141
+Epoch: 0101 cost=0.493258523
+Epoch: 0201 cost=0.375095712
+Epoch: 0301 cost=0.314152658
+Epoch: 0401 cost=0.282068418
+Epoch: 0501 cost=0.239497387
+Optimization finished
+Train Accuracy: 0.9164444
+Validation Accuracy: 0.856
+layers:  4 nodes:  15 data:  full
+Epoch: 0001 cost=2.970183134
+Epoch: 0101 cost=0.492178367
+Epoch: 0201 cost=0.366501129
+Epoch: 0301 cost=0.324918293
+Epoch: 0401 cost=0.271289789
+Epoch: 0501 cost=0.243015735
+Optimization finished
+Train Accuracy: 0.91944444
+Validation Accuracy: 0.817
+layers:  4 nodes:  15 data:  full
+Epoch: 0001 cost=3.994497511
+Epoch: 0101 cost=0.525356130
+Epoch: 0201 cost=0.385627051
+Epoch: 0301 cost=0.335009578
+Epoch: 0401 cost=0.296228151
+Epoch: 0501 cost=0.266472783
+Optimization finished
+Train Accuracy: 0.91433334
+Validation Accuracy: 0.851
+layers:  4 nodes:  15 data:  full
+Epoch: 0001 cost=2.580703179
+Epoch: 0101 cost=0.472620491
+Epoch: 0201 cost=0.336293413
+Epoch: 0301 cost=0.279320987
+Epoch: 0401 cost=0.257540115
+Epoch: 0501 cost=0.225825171
+Optimization finished
+Train Accuracy: 0.9301111
+Validation Accuracy: 0.84
+layers:  4 nodes:  15 data:  full
+Epoch: 0001 cost=4.419903702
+Epoch: 0101 cost=0.517045862
+Epoch: 0201 cost=0.387564424
+Epoch: 0301 cost=0.347555170
+Epoch: 0401 cost=0.300072028
+Epoch: 0501 cost=0.262507833
+Optimization finished
+Train Accuracy: 0.9148889
+Validation Accuracy: 0.819
+layers:  4 nodes:  15 data:  full
+Epoch: 0001 cost=3.817312876
+Epoch: 0101 cost=0.488493986
+Epoch: 0201 cost=0.350511524
+Epoch: 0301 cost=0.298907803
+Epoch: 0401 cost=0.269713091
+Epoch: 0501 cost=0.233866332
+Optimization finished
+Train Accuracy: 0.92344445
+Validation Accuracy: 0.84
+layers:  4 nodes:  20 data:  full
+Epoch: 0001 cost=2.381322649
+Epoch: 0101 cost=0.417738709
+Epoch: 0201 cost=0.333544986
+Epoch: 0301 cost=0.266310808
+Epoch: 0401 cost=0.232268959
+Epoch: 0501 cost=0.191635518
+Optimization finished
+Train Accuracy: 0.9402222
+Validation Accuracy: 0.831
+layers:  4 nodes:  20 data:  full
+Epoch: 0001 cost=1.945367548
+Epoch: 0101 cost=0.408693115
+Epoch: 0201 cost=0.320688695
+Epoch: 0301 cost=0.255606009
+Epoch: 0401 cost=0.222533299
+Epoch: 0501 cost=0.189755922
+Optimization finished
+Train Accuracy: 0.94144446
+Validation Accuracy: 0.825
+layers:  4 nodes:  20 data:  full
+Epoch: 0001 cost=4.122190131
+Epoch: 0101 cost=0.466450397
+Epoch: 0201 cost=0.351497736
+Epoch: 0301 cost=0.285045680
+Epoch: 0401 cost=0.235527693
+Epoch: 0501 cost=0.200621858
+Optimization finished
+Train Accuracy: 0.9321111
+Validation Accuracy: 0.839
+layers:  4 nodes:  20 data:  full
+Epoch: 0001 cost=2.213055955
+Epoch: 0101 cost=0.412869404
+Epoch: 0201 cost=0.301666800
+Epoch: 0301 cost=0.256849953
+Epoch: 0401 cost=0.203829169
+Epoch: 0501 cost=0.149779464
+Optimization finished
+Train Accuracy: 0.953
+Validation Accuracy: 0.836
+layers:  4 nodes:  20 data:  full
+Epoch: 0001 cost=2.331154929
+Epoch: 0101 cost=0.427958803
+Epoch: 0201 cost=0.317042016
+Epoch: 0301 cost=0.268615226
+Epoch: 0401 cost=0.226677770
+Epoch: 0501 cost=0.192526044
+Optimization finished
+Train Accuracy: 0.9354445
+Validation Accuracy: 0.848
+layers:  4 nodes:  20 data:  full
+Epoch: 0001 cost=5.022159947
+Epoch: 0101 cost=0.494922449
+Epoch: 0201 cost=0.355132828
+Epoch: 0301 cost=0.306861066
+Epoch: 0401 cost=0.250938624
+Epoch: 0501 cost=0.225382159
+Optimization finished
+Train Accuracy: 0.92822224
+Validation Accuracy: 0.828
+layers:  4 nodes:  20 data:  full
+Epoch: 0001 cost=4.836446868
+Epoch: 0101 cost=0.490871214
+Epoch: 0201 cost=0.355833918
+Epoch: 0301 cost=0.292237600
+Epoch: 0401 cost=0.244971108
+Epoch: 0501 cost=0.199651892
+Optimization finished
+Train Accuracy: 0.931
+Validation Accuracy: 0.856
+layers:  4 nodes:  20 data:  full
+Epoch: 0001 cost=2.967025015
+Epoch: 0101 cost=0.477165378
+Epoch: 0201 cost=0.380195611
+Epoch: 0301 cost=0.299380004
+Epoch: 0401 cost=0.239126407
+Epoch: 0501 cost=0.216867695
+Optimization finished
+Train Accuracy: 0.9321111
+Validation Accuracy: 0.816
+layers:  4 nodes:  20 data:  full
+Epoch: 0001 cost=5.124094645
+Epoch: 0101 cost=0.467081265
+Epoch: 0201 cost=0.379039781
+Epoch: 0301 cost=0.300514211
+Epoch: 0401 cost=0.256090724
+Epoch: 0501 cost=0.227473014
+Optimization finished
+Train Accuracy: 0.92744446
+Validation Accuracy: 0.822
+layers:  4 nodes:  20 data:  full
+Epoch: 0001 cost=2.237718556
+Epoch: 0101 cost=0.417586979
+Epoch: 0201 cost=0.312183327
+Epoch: 0301 cost=0.251706855
+Epoch: 0401 cost=0.216807163
+Epoch: 0501 cost=0.176527989
+Optimization finished
+Train Accuracy: 0.94244444
+Validation Accuracy: 0.85
+layers:  4 nodes:  50 data:  full
+Epoch: 0001 cost=2.755932861
+Epoch: 0101 cost=0.315941099
+Epoch: 0201 cost=0.191793647
+Epoch: 0301 cost=0.096832037
+Epoch: 0401 cost=0.043638596
+Epoch: 0501 cost=0.019715925
+Optimization finished
+Train Accuracy: 0.9967778
+Validation Accuracy: 0.837
+layers:  4 nodes:  50 data:  full
+Epoch: 0001 cost=3.938652383
+Epoch: 0101 cost=0.326844497
+Epoch: 0201 cost=0.192168100
+Epoch: 0301 cost=0.099149035
+Epoch: 0401 cost=0.043954963
+Epoch: 0501 cost=0.015708174
+Optimization finished
+Train Accuracy: 0.99855554
+Validation Accuracy: 0.816
+layers:  4 nodes:  50 data:  full
+Epoch: 0001 cost=1.917221679
+Epoch: 0101 cost=0.305305319
+Epoch: 0201 cost=0.165839021
+Epoch: 0301 cost=0.083179802
+Epoch: 0401 cost=0.040115606
+Epoch: 0501 cost=0.018212226
+Optimization finished
+Train Accuracy: 0.99644446
+Validation Accuracy: 0.822
+layers:  4 nodes:  50 data:  full
+Epoch: 0001 cost=2.933476448
+Epoch: 0101 cost=0.300545855
+Epoch: 0201 cost=0.164919131
+Epoch: 0301 cost=0.077718707
+Epoch: 0401 cost=0.038512007
+Epoch: 0501 cost=0.015440851
+Optimization finished
+Train Accuracy: 0.99766666
+Validation Accuracy: 0.828
+layers:  4 nodes:  50 data:  full
+Epoch: 0001 cost=8.041994890
+Epoch: 0101 cost=0.369647688
+Epoch: 0201 cost=0.243642557
+Epoch: 0301 cost=0.152363734
+Epoch: 0401 cost=0.082271153
+Epoch: 0501 cost=0.049006236
+Optimization finished
+Train Accuracy: 0.98822224
+Validation Accuracy: 0.835
+layers:  4 nodes:  50 data:  full
+Epoch: 0001 cost=6.158123811
+Epoch: 0101 cost=0.329616613
+Epoch: 0201 cost=0.196208916
+Epoch: 0301 cost=0.095721134
+Epoch: 0401 cost=0.052247507
+Epoch: 0501 cost=0.025685740
+Optimization finished
+Train Accuracy: 0.9951111
+Validation Accuracy: 0.808
+layers:  4 nodes:  50 data:  full
+Epoch: 0001 cost=2.623954905
+Epoch: 0101 cost=0.301274247
+Epoch: 0201 cost=0.176974025
+Epoch: 0301 cost=0.080131288
+Epoch: 0401 cost=0.035588124
+Epoch: 0501 cost=0.012162092
+Optimization finished
+Train Accuracy: 0.999
+Validation Accuracy: 0.823
+layers:  4 nodes:  50 data:  full
+Epoch: 0001 cost=9.037896792
+Epoch: 0101 cost=0.361940788
+Epoch: 0201 cost=0.225639555
+Epoch: 0301 cost=0.118386039
+Epoch: 0401 cost=0.055513579
+Epoch: 0501 cost=0.021009116
+Optimization finished
+Train Accuracy: 0.99755555
+Validation Accuracy: 0.797
+layers:  4 nodes:  50 data:  full
+Epoch: 0001 cost=5.978432549
+Epoch: 0101 cost=0.372462084
+Epoch: 0201 cost=0.230438403
+Epoch: 0301 cost=0.133515623
+Epoch: 0401 cost=0.068647715
+Epoch: 0501 cost=0.031772920
+Optimization finished
+Train Accuracy: 0.9941111
+Validation Accuracy: 0.826
+layers:  4 nodes:  50 data:  full
+Epoch: 0001 cost=2.565021237
+Epoch: 0101 cost=0.333194531
+Epoch: 0201 cost=0.189385042
+Epoch: 0301 cost=0.097306406
+Epoch: 0401 cost=0.048802402
+Epoch: 0501 cost=0.020541157
+Optimization finished
+Train Accuracy: 0.997
+Validation Accuracy: 0.836
+layers:  1 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=1.913500256
+Epoch: 0101 cost=1.595540550
+Epoch: 0201 cost=1.573652837
+Epoch: 0301 cost=1.532989846
+Epoch: 0401 cost=1.460579581
+Epoch: 0501 cost=1.359185815
+Optimization finished
+Train Accuracy: 0.76177776
+Validation Accuracy: 0.762
+layers:  1 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.285864857
+Epoch: 0101 cost=1.592310071
+Epoch: 0201 cost=1.574137330
+Epoch: 0301 cost=1.539562080
+Epoch: 0401 cost=1.472952697
+Epoch: 0501 cost=1.375002358
+Optimization finished
+Train Accuracy: 0.70066667
+Validation Accuracy: 0.684
+layers:  1 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.235654407
+Epoch: 0101 cost=1.591395934
+Epoch: 0201 cost=1.570058796
+Epoch: 0301 cost=1.539982001
+Epoch: 0401 cost=1.490269846
+Epoch: 0501 cost=1.415735152
+Optimization finished
+Train Accuracy: 0.80811113
+Validation Accuracy: 0.807
+layers:  1 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.507419268
+Epoch: 0101 cost=1.597721842
+Epoch: 0201 cost=1.579056475
+Epoch: 0301 cost=1.548247629
+Epoch: 0401 cost=1.490271926
+Epoch: 0501 cost=1.400244872
+Optimization finished
+Train Accuracy: 0.82533336
+Validation Accuracy: 0.825
+layers:  1 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.784569740
+Epoch: 0101 cost=1.588951137
+Epoch: 0201 cost=1.567274041
+Epoch: 0301 cost=1.531630688
+Epoch: 0401 cost=1.464714805
+Epoch: 0501 cost=1.369690286
+Optimization finished
+Train Accuracy: 0.6811111
+Validation Accuracy: 0.704
+layers:  1 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=3.028426462
+Epoch: 0101 cost=1.594581723
+Epoch: 0201 cost=1.576373206
+Epoch: 0301 cost=1.549938361
+Epoch: 0401 cost=1.508068191
+Epoch: 0501 cost=1.438057886
+Optimization finished
+Train Accuracy: 0.6627778
+Validation Accuracy: 0.654
+layers:  1 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.807726145
+Epoch: 0101 cost=1.591682315
+Epoch: 0201 cost=1.562184374
+Epoch: 0301 cost=1.509493046
+Epoch: 0401 cost=1.428965582
+Epoch: 0501 cost=1.322048306
+Optimization finished
+Train Accuracy: 0.799
+Validation Accuracy: 0.803
+layers:  1 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.375837220
+Epoch: 0101 cost=1.597510126
+Epoch: 0201 cost=1.579913153
+Epoch: 0301 cost=1.553403576
+Epoch: 0401 cost=1.505087045
+Epoch: 0501 cost=1.429997630
+Optimization finished
+Train Accuracy: 0.75344443
+Validation Accuracy: 0.744
+layers:  1 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.434520880
+Epoch: 0101 cost=1.607677009
+Epoch: 0201 cost=1.578405831
+Epoch: 0301 cost=1.530271610
+Epoch: 0401 cost=1.434968882
+Epoch: 0501 cost=1.310596108
+Optimization finished
+Train Accuracy: 0.7227778
+Validation Accuracy: 0.726
+layers:  1 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.184738106
+Epoch: 0101 cost=1.591856400
+Epoch: 0201 cost=1.567137414
+Epoch: 0301 cost=1.522350417
+Epoch: 0401 cost=1.452905032
+Epoch: 0501 cost=1.360909409
+Optimization finished
+Train Accuracy: 0.7446667
+Validation Accuracy: 0.75
+layers:  1 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.318625953
+Epoch: 0101 cost=1.587493949
+Epoch: 0201 cost=1.547515074
+Epoch: 0301 cost=1.465745409
+Epoch: 0401 cost=1.321367065
+Epoch: 0501 cost=1.156032178
+Optimization finished
+Train Accuracy: 0.8603333
+Validation Accuracy: 0.851
+layers:  1 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.347361856
+Epoch: 0101 cost=1.582385977
+Epoch: 0201 cost=1.540535622
+Epoch: 0301 cost=1.446951416
+Epoch: 0401 cost=1.271126813
+Epoch: 0501 cost=1.092536145
+Optimization finished
+Train Accuracy: 0.84933335
+Validation Accuracy: 0.843
+layers:  1 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.297482305
+Epoch: 0101 cost=1.575572054
+Epoch: 0201 cost=1.526554942
+Epoch: 0301 cost=1.425335473
+Epoch: 0401 cost=1.275795274
+Epoch: 0501 cost=1.100079377
+Optimization finished
+Train Accuracy: 0.85322225
+Validation Accuracy: 0.847
+layers:  1 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.817273882
+Epoch: 0101 cost=1.592608518
+Epoch: 0201 cost=1.559494946
+Epoch: 0301 cost=1.506521172
+Epoch: 0401 cost=1.413928774
+Epoch: 0501 cost=1.276451071
+Optimization finished
+Train Accuracy: 0.74266666
+Validation Accuracy: 0.752
+layers:  1 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.697763655
+Epoch: 0101 cost=1.574131952
+Epoch: 0201 cost=1.527704477
+Epoch: 0301 cost=1.451417618
+Epoch: 0401 cost=1.327758524
+Epoch: 0501 cost=1.168839150
+Optimization finished
+Train Accuracy: 0.85
+Validation Accuracy: 0.852
+layers:  1 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=1.930929886
+Epoch: 0101 cost=1.575663805
+Epoch: 0201 cost=1.526093509
+Epoch: 0301 cost=1.421615561
+Epoch: 0401 cost=1.259523008
+Epoch: 0501 cost=1.081979685
+Optimization finished
+Train Accuracy: 0.86877775
+Validation Accuracy: 0.849
+layers:  1 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=4.421491623
+Epoch: 0101 cost=1.592198888
+Epoch: 0201 cost=1.560320881
+Epoch: 0301 cost=1.516338229
+Epoch: 0401 cost=1.445338872
+Epoch: 0501 cost=1.318457445
+Optimization finished
+Train Accuracy: 0.78922224
+Validation Accuracy: 0.803
+layers:  1 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.310407824
+Epoch: 0101 cost=1.572724938
+Epoch: 0201 cost=1.521111223
+Epoch: 0301 cost=1.426881115
+Epoch: 0401 cost=1.288268076
+Epoch: 0501 cost=1.131662329
+Optimization finished
+Train Accuracy: 0.85855556
+Validation Accuracy: 0.846
+layers:  1 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=3.694638994
+Epoch: 0101 cost=1.579227620
+Epoch: 0201 cost=1.544401262
+Epoch: 0301 cost=1.491954499
+Epoch: 0401 cost=1.404339724
+Epoch: 0501 cost=1.274053494
+Optimization finished
+Train Accuracy: 0.8381111
+Validation Accuracy: 0.829
+layers:  1 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.770758973
+Epoch: 0101 cost=1.590341833
+Epoch: 0201 cost=1.556927270
+Epoch: 0301 cost=1.499960118
+Epoch: 0401 cost=1.401633329
+Epoch: 0501 cost=1.271127118
+Optimization finished
+Train Accuracy: 0.7961111
+Validation Accuracy: 0.818
+layers:  1 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=3.170167976
+Epoch: 0101 cost=1.551991238
+Epoch: 0201 cost=1.477080915
+Epoch: 0301 cost=1.358586139
+Epoch: 0401 cost=1.199368583
+Epoch: 0501 cost=1.019653638
+Optimization finished
+Train Accuracy: 0.83944446
+Validation Accuracy: 0.838
+layers:  1 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=2.060461322
+Epoch: 0101 cost=1.559290581
+Epoch: 0201 cost=1.478269074
+Epoch: 0301 cost=1.344520887
+Epoch: 0401 cost=1.166460090
+Epoch: 0501 cost=0.984106064
+Optimization finished
+Train Accuracy: 0.8522222
+Validation Accuracy: 0.866
+layers:  1 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=2.896781736
+Epoch: 0101 cost=1.576201214
+Epoch: 0201 cost=1.516944157
+Epoch: 0301 cost=1.407635583
+Epoch: 0401 cost=1.230842471
+Epoch: 0501 cost=1.030436397
+Optimization finished
+Train Accuracy: 0.86255556
+Validation Accuracy: 0.864
+layers:  1 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=3.527507703
+Epoch: 0101 cost=1.584188541
+Epoch: 0201 cost=1.526762327
+Epoch: 0301 cost=1.422238906
+Epoch: 0401 cost=1.273264183
+Epoch: 0501 cost=1.090481533
+Optimization finished
+Train Accuracy: 0.8568889
+Validation Accuracy: 0.857
+layers:  1 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=5.299418079
+Epoch: 0101 cost=1.571502672
+Epoch: 0201 cost=1.525128669
+Epoch: 0301 cost=1.452105509
+Epoch: 0401 cost=1.326582670
+Epoch: 0501 cost=1.146608604
+Optimization finished
+Train Accuracy: 0.86377776
+Validation Accuracy: 0.865
+layers:  1 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=2.623033656
+Epoch: 0101 cost=1.554244147
+Epoch: 0201 cost=1.478658160
+Epoch: 0301 cost=1.349903557
+Epoch: 0401 cost=1.167833302
+Epoch: 0501 cost=0.978518983
+Optimization finished
+Train Accuracy: 0.86944443
+Validation Accuracy: 0.856
+layers:  1 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=3.541440937
+Epoch: 0101 cost=1.556527177
+Epoch: 0201 cost=1.488904079
+Epoch: 0301 cost=1.367434714
+Epoch: 0401 cost=1.187291251
+Epoch: 0501 cost=0.994818469
+Optimization finished
+Train Accuracy: 0.85933334
+Validation Accuracy: 0.88
+layers:  1 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=6.994126638
+Epoch: 0101 cost=1.552645259
+Epoch: 0201 cost=1.502540337
+Epoch: 0301 cost=1.430611319
+Epoch: 0401 cost=1.317896141
+Epoch: 0501 cost=1.160048591
+Optimization finished
+Train Accuracy: 0.869
+Validation Accuracy: 0.861
+layers:  1 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=1.827486515
+Epoch: 0101 cost=1.539249606
+Epoch: 0201 cost=1.431918263
+Epoch: 0301 cost=1.270897177
+Epoch: 0401 cost=1.088924196
+Epoch: 0501 cost=0.912527899
+Optimization finished
+Train Accuracy: 0.8652222
+Validation Accuracy: 0.859
+layers:  1 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=2.496317360
+Epoch: 0101 cost=1.561171492
+Epoch: 0201 cost=1.492596308
+Epoch: 0301 cost=1.381829407
+Epoch: 0401 cost=1.228213641
+Epoch: 0501 cost=1.047442834
+Optimization finished
+Train Accuracy: 0.863
+Validation Accuracy: 0.877
+layers:  1 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=1.840729343
+Epoch: 0101 cost=1.560090767
+Epoch: 0201 cost=1.456579169
+Epoch: 0301 cost=1.265033497
+Epoch: 0401 cost=1.019812372
+Epoch: 0501 cost=0.812490291
+Optimization finished
+Train Accuracy: 0.86844444
+Validation Accuracy: 0.866
+layers:  1 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=4.411559317
+Epoch: 0101 cost=1.542270687
+Epoch: 0201 cost=1.472745909
+Epoch: 0301 cost=1.364937266
+Epoch: 0401 cost=1.205466708
+Epoch: 0501 cost=0.990307927
+Optimization finished
+Train Accuracy: 0.86266667
+Validation Accuracy: 0.869
+layers:  1 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=3.474390507
+Epoch: 0101 cost=1.554417716
+Epoch: 0201 cost=1.484018591
+Epoch: 0301 cost=1.359767040
+Epoch: 0401 cost=1.173071398
+Epoch: 0501 cost=0.967086428
+Optimization finished
+Train Accuracy: 0.864
+Validation Accuracy: 0.857
+layers:  1 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=1.878490011
+Epoch: 0101 cost=1.532690671
+Epoch: 0201 cost=1.410647021
+Epoch: 0301 cost=1.214208987
+Epoch: 0401 cost=0.986092905
+Epoch: 0501 cost=0.796972301
+Optimization finished
+Train Accuracy: 0.8647778
+Validation Accuracy: 0.862
+layers:  1 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=1.820532984
+Epoch: 0101 cost=1.542687972
+Epoch: 0201 cost=1.431668255
+Epoch: 0301 cost=1.247304294
+Epoch: 0401 cost=1.030510704
+Epoch: 0501 cost=0.828219149
+Optimization finished
+Train Accuracy: 0.86733335
+Validation Accuracy: 0.864
+layers:  1 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=2.849793010
+Epoch: 0101 cost=1.503925112
+Epoch: 0201 cost=1.398597452
+Epoch: 0301 cost=1.244067775
+Epoch: 0401 cost=1.048900790
+Epoch: 0501 cost=0.848941902
+Optimization finished
+Train Accuracy: 0.87222224
+Validation Accuracy: 0.853
+layers:  1 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=2.352436198
+Epoch: 0101 cost=1.539452937
+Epoch: 0201 cost=1.447641174
+Epoch: 0301 cost=1.300103903
+Epoch: 0401 cost=1.107622769
+Epoch: 0501 cost=0.903411733
+Optimization finished
+Train Accuracy: 0.86355555
+Validation Accuracy: 0.872
+layers:  1 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=6.248304844
+Epoch: 0101 cost=1.555027763
+Epoch: 0201 cost=1.485939516
+Epoch: 0301 cost=1.387272596
+Epoch: 0401 cost=1.225880649
+Epoch: 0501 cost=1.015683704
+Optimization finished
+Train Accuracy: 0.858
+Validation Accuracy: 0.847
+layers:  1 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=4.033197906
+Epoch: 0101 cost=1.556713091
+Epoch: 0201 cost=1.485902442
+Epoch: 0301 cost=1.374412987
+Epoch: 0401 cost=1.198987643
+Epoch: 0501 cost=0.987518781
+Optimization finished
+Train Accuracy: 0.862
+Validation Accuracy: 0.852
+layers:  1 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=3.485838440
+Epoch: 0101 cost=1.552862631
+Epoch: 0201 cost=1.480798708
+Epoch: 0301 cost=1.349664807
+Epoch: 0401 cost=1.158545838
+Epoch: 0501 cost=0.945689036
+Optimization finished
+Train Accuracy: 0.8651111
+Validation Accuracy: 0.872
+layers:  1 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=9.195879618
+Epoch: 0101 cost=1.438403090
+Epoch: 0201 cost=1.278403574
+Epoch: 0301 cost=1.090053227
+Epoch: 0401 cost=0.858657108
+Epoch: 0501 cost=0.652753327
+Optimization finished
+Train Accuracy: 0.86944443
+Validation Accuracy: 0.865
+layers:  1 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=4.641435358
+Epoch: 0101 cost=1.468359894
+Epoch: 0201 cost=1.293938624
+Epoch: 0301 cost=1.029998196
+Epoch: 0401 cost=0.752797200
+Epoch: 0501 cost=0.588927190
+Optimization finished
+Train Accuracy: 0.8671111
+Validation Accuracy: 0.871
+layers:  1 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=3.485212617
+Epoch: 0101 cost=1.472927411
+Epoch: 0201 cost=1.279379063
+Epoch: 0301 cost=1.007328636
+Epoch: 0401 cost=0.757965240
+Epoch: 0501 cost=0.591962490
+Optimization finished
+Train Accuracy: 0.868
+Validation Accuracy: 0.864
+layers:  1 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=6.661680063
+Epoch: 0101 cost=1.438084457
+Epoch: 0201 cost=1.263919738
+Epoch: 0301 cost=1.033724282
+Epoch: 0401 cost=0.804965973
+Epoch: 0501 cost=0.626479533
+Optimization finished
+Train Accuracy: 0.86877775
+Validation Accuracy: 0.868
+layers:  1 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=9.366782082
+Epoch: 0101 cost=1.471366644
+Epoch: 0201 cost=1.313955029
+Epoch: 0301 cost=1.126107335
+Epoch: 0401 cost=0.894112156
+Epoch: 0501 cost=0.693292591
+Optimization finished
+Train Accuracy: 0.86855555
+Validation Accuracy: 0.868
+layers:  1 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=6.543738312
+Epoch: 0101 cost=1.456604759
+Epoch: 0201 cost=1.298161321
+Epoch: 0301 cost=1.087710606
+Epoch: 0401 cost=0.831270357
+Epoch: 0501 cost=0.625126739
+Optimization finished
+Train Accuracy: 0.87166667
+Validation Accuracy: 0.857
+layers:  1 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=2.443628470
+Epoch: 0101 cost=1.439493550
+Epoch: 0201 cost=1.207992832
+Epoch: 0301 cost=0.900736901
+Epoch: 0401 cost=0.674641709
+Epoch: 0501 cost=0.532583045
+Optimization finished
+Train Accuracy: 0.8665556
+Validation Accuracy: 0.881
+layers:  1 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=2.675404443
+Epoch: 0101 cost=1.447215226
+Epoch: 0201 cost=1.228388362
+Epoch: 0301 cost=0.954454634
+Epoch: 0401 cost=0.718779624
+Epoch: 0501 cost=0.568799376
+Optimization finished
+Train Accuracy: 0.86733335
+Validation Accuracy: 0.851
+layers:  1 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=5.445255650
+Epoch: 0101 cost=1.463293592
+Epoch: 0201 cost=1.289560795
+Epoch: 0301 cost=1.068289717
+Epoch: 0401 cost=0.823558834
+Epoch: 0501 cost=0.629749384
+Optimization finished
+Train Accuracy: 0.8668889
+Validation Accuracy: 0.849
+layers:  1 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=3.021620194
+Epoch: 0101 cost=1.445240219
+Epoch: 0201 cost=1.212810397
+Epoch: 0301 cost=0.934578180
+Epoch: 0401 cost=0.698542244
+Epoch: 0501 cost=0.552113685
+Optimization finished
+Train Accuracy: 0.86433333
+Validation Accuracy: 0.881
+layers:  2 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=3.029150724
+Epoch: 0101 cost=1.605464286
+Epoch: 0201 cost=1.594902237
+Epoch: 0301 cost=1.575841506
+Epoch: 0401 cost=1.516543759
+Epoch: 0501 cost=1.358124362
+Optimization finished
+Train Accuracy: 0.6981111
+Validation Accuracy: 0.711
+layers:  2 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.183746656
+Epoch: 0101 cost=1.601045714
+Epoch: 0201 cost=1.586902963
+Epoch: 0301 cost=1.544385738
+Epoch: 0401 cost=1.408626570
+Epoch: 0501 cost=1.137933903
+Optimization finished
+Train Accuracy: 0.78033334
+Validation Accuracy: 0.785
+layers:  2 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.997129281
+Epoch: 0101 cost=1.614971320
+Epoch: 0201 cost=1.591103395
+Epoch: 0301 cost=1.562081032
+Epoch: 0401 cost=1.452882806
+Epoch: 0501 cost=1.243675550
+Optimization finished
+Train Accuracy: 0.54244447
+Validation Accuracy: 0.54
+layers:  2 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=1.787510037
+Epoch: 0101 cost=1.604629238
+Epoch: 0201 cost=1.590729859
+Epoch: 0301 cost=1.501533800
+Epoch: 0401 cost=1.256585148
+Epoch: 0501 cost=1.066238443
+Optimization finished
+Train Accuracy: 0.6432222
+Validation Accuracy: 0.65
+layers:  2 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=1.969349954
+Epoch: 0101 cost=1.602550904
+Epoch: 0201 cost=1.588882989
+Epoch: 0301 cost=1.513705797
+Epoch: 0401 cost=1.290611214
+Epoch: 0501 cost=1.066889988
+Optimization finished
+Train Accuracy: 0.7453333
+Validation Accuracy: 0.768
+layers:  2 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=4.620685471
+Epoch: 0101 cost=1.702790485
+Epoch: 0201 cost=1.596399784
+Epoch: 0301 cost=1.585349361
+Epoch: 0401 cost=1.558455057
+Epoch: 0501 cost=1.481770436
+Optimization finished
+Train Accuracy: 0.6805556
+Validation Accuracy: 0.676
+layers:  2 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=1.798628330
+Epoch: 0101 cost=1.603792879
+Epoch: 0201 cost=1.591559397
+Epoch: 0301 cost=1.551475472
+Epoch: 0401 cost=1.433530543
+Epoch: 0501 cost=1.203254329
+Optimization finished
+Train Accuracy: 0.76944447
+Validation Accuracy: 0.787
+layers:  2 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=3.099947585
+Epoch: 0101 cost=1.603773011
+Epoch: 0201 cost=1.589654115
+Epoch: 0301 cost=1.557778557
+Epoch: 0401 cost=1.459934950
+Epoch: 0501 cost=1.257749359
+Optimization finished
+Train Accuracy: 0.62844443
+Validation Accuracy: 0.63
+layers:  2 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=1.968309985
+Epoch: 0101 cost=1.599871582
+Epoch: 0201 cost=1.585218853
+Epoch: 0301 cost=1.538436241
+Epoch: 0401 cost=1.382990307
+Epoch: 0501 cost=1.115629183
+Optimization finished
+Train Accuracy: 0.7354444
+Validation Accuracy: 0.736
+layers:  2 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=3.252844095
+Epoch: 0101 cost=1.604909976
+Epoch: 0201 cost=1.587278300
+Epoch: 0301 cost=1.548695326
+Epoch: 0401 cost=1.451213280
+Epoch: 0501 cost=1.268172436
+Optimization finished
+Train Accuracy: 0.6856667
+Validation Accuracy: 0.689
+layers:  2 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=3.487118483
+Epoch: 0101 cost=1.586228583
+Epoch: 0201 cost=1.545244243
+Epoch: 0301 cost=1.390834861
+Epoch: 0401 cost=1.096375876
+Epoch: 0501 cost=0.855923070
+Optimization finished
+Train Accuracy: 0.842
+Validation Accuracy: 0.839
+layers:  2 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.713520315
+Epoch: 0101 cost=1.596912887
+Epoch: 0201 cost=1.554730137
+Epoch: 0301 cost=1.380157285
+Epoch: 0401 cost=1.017900632
+Epoch: 0501 cost=0.723468502
+Optimization finished
+Train Accuracy: 0.84655553
+Validation Accuracy: 0.845
+layers:  2 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=3.268518448
+Epoch: 0101 cost=1.586903572
+Epoch: 0201 cost=1.525170949
+Epoch: 0301 cost=1.304331528
+Epoch: 0401 cost=0.972273290
+Epoch: 0501 cost=0.684272726
+Optimization finished
+Train Accuracy: 0.8565556
+Validation Accuracy: 0.851
+layers:  2 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.307286421
+Epoch: 0101 cost=1.572646075
+Epoch: 0201 cost=1.438208699
+Epoch: 0301 cost=1.092833294
+Epoch: 0401 cost=0.827901138
+Epoch: 0501 cost=0.647544457
+Optimization finished
+Train Accuracy: 0.8422222
+Validation Accuracy: 0.845
+layers:  2 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.461881717
+Epoch: 0101 cost=1.594966279
+Epoch: 0201 cost=1.551845113
+Epoch: 0301 cost=1.400822401
+Epoch: 0401 cost=1.081254337
+Epoch: 0501 cost=0.840912441
+Optimization finished
+Train Accuracy: 0.823
+Validation Accuracy: 0.825
+layers:  2 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.295532465
+Epoch: 0101 cost=1.599256913
+Epoch: 0201 cost=1.563990222
+Epoch: 0301 cost=1.403782924
+Epoch: 0401 cost=1.039224241
+Epoch: 0501 cost=0.777928816
+Optimization finished
+Train Accuracy: 0.7447778
+Validation Accuracy: 0.722
+layers:  2 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.770301077
+Epoch: 0101 cost=1.588218967
+Epoch: 0201 cost=1.533613854
+Epoch: 0301 cost=1.370362216
+Epoch: 0401 cost=1.107006947
+Epoch: 0501 cost=0.831827641
+Optimization finished
+Train Accuracy: 0.836
+Validation Accuracy: 0.848
+layers:  2 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.365870767
+Epoch: 0101 cost=1.590203762
+Epoch: 0201 cost=1.541887124
+Epoch: 0301 cost=1.304293235
+Epoch: 0401 cost=0.976354652
+Epoch: 0501 cost=0.757598254
+Optimization finished
+Train Accuracy: 0.84033334
+Validation Accuracy: 0.823
+layers:  2 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=3.624678241
+Epoch: 0101 cost=1.578910563
+Epoch: 0201 cost=1.528654734
+Epoch: 0301 cost=1.401127431
+Epoch: 0401 cost=1.114908828
+Epoch: 0501 cost=0.799629152
+Optimization finished
+Train Accuracy: 0.841
+Validation Accuracy: 0.832
+layers:  2 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=1.676397959
+Epoch: 0101 cost=1.585149341
+Epoch: 0201 cost=1.433696270
+Epoch: 0301 cost=1.059572988
+Epoch: 0401 cost=0.813353678
+Epoch: 0501 cost=0.645335833
+Optimization finished
+Train Accuracy: 0.82566667
+Validation Accuracy: 0.842
+layers:  2 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=3.757442766
+Epoch: 0101 cost=1.581846992
+Epoch: 0201 cost=1.477585832
+Epoch: 0301 cost=1.156293061
+Epoch: 0401 cost=0.829110417
+Epoch: 0501 cost=0.628004134
+Optimization finished
+Train Accuracy: 0.8501111
+Validation Accuracy: 0.837
+layers:  2 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=4.115029282
+Epoch: 0101 cost=1.575725622
+Epoch: 0201 cost=1.469430751
+Epoch: 0301 cost=1.083286577
+Epoch: 0401 cost=0.751977914
+Epoch: 0501 cost=0.560571220
+Optimization finished
+Train Accuracy: 0.8482222
+Validation Accuracy: 0.856
+layers:  2 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=4.231780476
+Epoch: 0101 cost=1.565926539
+Epoch: 0201 cost=1.448779239
+Epoch: 0301 cost=1.123357654
+Epoch: 0401 cost=0.787573304
+Epoch: 0501 cost=0.545969784
+Optimization finished
+Train Accuracy: 0.85888886
+Validation Accuracy: 0.862
+layers:  2 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=2.953742822
+Epoch: 0101 cost=1.576739377
+Epoch: 0201 cost=1.467366430
+Epoch: 0301 cost=1.116445118
+Epoch: 0401 cost=0.713674267
+Epoch: 0501 cost=0.519926416
+Optimization finished
+Train Accuracy: 0.865
+Validation Accuracy: 0.864
+layers:  2 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=3.524171909
+Epoch: 0101 cost=1.577527603
+Epoch: 0201 cost=1.453277522
+Epoch: 0301 cost=1.103414085
+Epoch: 0401 cost=0.778088119
+Epoch: 0501 cost=0.552080724
+Optimization finished
+Train Accuracy: 0.8468889
+Validation Accuracy: 0.853
+layers:  2 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=3.876519601
+Epoch: 0101 cost=1.574828890
+Epoch: 0201 cost=1.479048212
+Epoch: 0301 cost=1.194810457
+Epoch: 0401 cost=0.851691975
+Epoch: 0501 cost=0.603400555
+Optimization finished
+Train Accuracy: 0.8476667
+Validation Accuracy: 0.833
+layers:  2 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=2.933391492
+Epoch: 0101 cost=1.573880619
+Epoch: 0201 cost=1.396628963
+Epoch: 0301 cost=1.014212218
+Epoch: 0401 cost=0.770832830
+Epoch: 0501 cost=0.607586225
+Optimization finished
+Train Accuracy: 0.83577776
+Validation Accuracy: 0.862
+layers:  2 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=4.678055392
+Epoch: 0101 cost=1.577154424
+Epoch: 0201 cost=1.511482795
+Epoch: 0301 cost=1.249726163
+Epoch: 0401 cost=0.865012586
+Epoch: 0501 cost=0.589982271
+Optimization finished
+Train Accuracy: 0.8473333
+Validation Accuracy: 0.829
+layers:  2 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=1.919652422
+Epoch: 0101 cost=1.548589296
+Epoch: 0201 cost=1.247635590
+Epoch: 0301 cost=0.898790936
+Epoch: 0401 cost=0.620994687
+Epoch: 0501 cost=0.444908003
+Optimization finished
+Train Accuracy: 0.8618889
+Validation Accuracy: 0.85
+layers:  2 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=3.741493755
+Epoch: 0101 cost=1.585219688
+Epoch: 0201 cost=1.483376159
+Epoch: 0301 cost=1.213703487
+Epoch: 0401 cost=0.954434223
+Epoch: 0501 cost=0.728292856
+Optimization finished
+Train Accuracy: 0.8335556
+Validation Accuracy: 0.861
+layers:  2 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=2.526744472
+Epoch: 0101 cost=1.533612172
+Epoch: 0201 cost=1.255933298
+Epoch: 0301 cost=0.834223939
+Epoch: 0401 cost=0.565213349
+Epoch: 0501 cost=0.449955682
+Optimization finished
+Train Accuracy: 0.85944444
+Validation Accuracy: 0.846
+layers:  2 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=4.185386181
+Epoch: 0101 cost=1.532561329
+Epoch: 0201 cost=1.281699181
+Epoch: 0301 cost=0.879937735
+Epoch: 0401 cost=0.592862652
+Epoch: 0501 cost=0.457232548
+Optimization finished
+Train Accuracy: 0.8603333
+Validation Accuracy: 0.875
+layers:  2 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=2.286212815
+Epoch: 0101 cost=1.521594988
+Epoch: 0201 cost=1.114979691
+Epoch: 0301 cost=0.697840446
+Epoch: 0401 cost=0.506881373
+Epoch: 0501 cost=0.433941732
+Optimization finished
+Train Accuracy: 0.8616667
+Validation Accuracy: 0.861
+layers:  2 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=2.249219338
+Epoch: 0101 cost=1.519889050
+Epoch: 0201 cost=1.211149878
+Epoch: 0301 cost=0.740656661
+Epoch: 0401 cost=0.495948715
+Epoch: 0501 cost=0.426017175
+Optimization finished
+Train Accuracy: 0.8651111
+Validation Accuracy: 0.855
+layers:  2 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=2.230669869
+Epoch: 0101 cost=1.463895745
+Epoch: 0201 cost=1.065455861
+Epoch: 0301 cost=0.677639173
+Epoch: 0401 cost=0.471298549
+Epoch: 0501 cost=0.386091924
+Optimization finished
+Train Accuracy: 0.86955553
+Validation Accuracy: 0.872
+layers:  2 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=2.503346417
+Epoch: 0101 cost=1.486523098
+Epoch: 0201 cost=1.133801659
+Epoch: 0301 cost=0.767960489
+Epoch: 0401 cost=0.548974461
+Epoch: 0501 cost=0.451471448
+Optimization finished
+Train Accuracy: 0.86266667
+Validation Accuracy: 0.85
+layers:  2 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=4.735214180
+Epoch: 0101 cost=1.555130733
+Epoch: 0201 cost=1.403129737
+Epoch: 0301 cost=1.019157032
+Epoch: 0401 cost=0.652114458
+Epoch: 0501 cost=0.459909598
+Optimization finished
+Train Accuracy: 0.8651111
+Validation Accuracy: 0.884
+layers:  2 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=4.359607961
+Epoch: 0101 cost=1.538609015
+Epoch: 0201 cost=1.351282332
+Epoch: 0301 cost=1.016325500
+Epoch: 0401 cost=0.706748439
+Epoch: 0501 cost=0.503260265
+Optimization finished
+Train Accuracy: 0.8605555
+Validation Accuracy: 0.851
+layers:  2 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=5.339464400
+Epoch: 0101 cost=1.556465771
+Epoch: 0201 cost=1.343395339
+Epoch: 0301 cost=0.914752867
+Epoch: 0401 cost=0.600632621
+Epoch: 0501 cost=0.446897219
+Optimization finished
+Train Accuracy: 0.8665556
+Validation Accuracy: 0.848
+layers:  2 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=7.020859506
+Epoch: 0101 cost=1.552524487
+Epoch: 0201 cost=1.242078132
+Epoch: 0301 cost=0.878166649
+Epoch: 0401 cost=0.624689672
+Epoch: 0501 cost=0.480890903
+Optimization finished
+Train Accuracy: 0.8641111
+Validation Accuracy: 0.877
+layers:  2 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=3.273879078
+Epoch: 0101 cost=1.140003125
+Epoch: 0201 cost=0.598447588
+Epoch: 0301 cost=0.421307362
+Epoch: 0401 cost=0.379426304
+Epoch: 0501 cost=0.357505868
+Optimization finished
+Train Accuracy: 0.8731111
+Validation Accuracy: 0.859
+layers:  2 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=3.198900196
+Epoch: 0101 cost=1.151496212
+Epoch: 0201 cost=0.573642850
+Epoch: 0301 cost=0.415511953
+Epoch: 0401 cost=0.381039706
+Epoch: 0501 cost=0.373621888
+Optimization finished
+Train Accuracy: 0.87233335
+Validation Accuracy: 0.877
+layers:  2 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=5.218154801
+Epoch: 0101 cost=1.222088218
+Epoch: 0201 cost=0.653058867
+Epoch: 0301 cost=0.442732437
+Epoch: 0401 cost=0.374979254
+Epoch: 0501 cost=0.372300754
+Optimization finished
+Train Accuracy: 0.8721111
+Validation Accuracy: 0.879
+layers:  2 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=8.049604257
+Epoch: 0101 cost=1.262601958
+Epoch: 0201 cost=0.712322831
+Epoch: 0301 cost=0.454191844
+Epoch: 0401 cost=0.392431223
+Epoch: 0501 cost=0.366603318
+Optimization finished
+Train Accuracy: 0.87166667
+Validation Accuracy: 0.874
+layers:  2 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=4.139460034
+Epoch: 0101 cost=1.120770203
+Epoch: 0201 cost=0.588571111
+Epoch: 0301 cost=0.422835688
+Epoch: 0401 cost=0.386222104
+Epoch: 0501 cost=0.354278978
+Optimization finished
+Train Accuracy: 0.872
+Validation Accuracy: 0.879
+layers:  2 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=2.199348198
+Epoch: 0101 cost=1.017598238
+Epoch: 0201 cost=0.557655315
+Epoch: 0301 cost=0.410766893
+Epoch: 0401 cost=0.371790760
+Epoch: 0501 cost=0.363984115
+Optimization finished
+Train Accuracy: 0.87288886
+Validation Accuracy: 0.862
+layers:  2 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=2.311768611
+Epoch: 0101 cost=1.047068742
+Epoch: 0201 cost=0.585614940
+Epoch: 0301 cost=0.422542069
+Epoch: 0401 cost=0.388130188
+Epoch: 0501 cost=0.361578882
+Optimization finished
+Train Accuracy: 0.87144446
+Validation Accuracy: 0.886
+layers:  2 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=5.834772375
+Epoch: 0101 cost=1.363624109
+Epoch: 0201 cost=0.790009075
+Epoch: 0301 cost=0.461318552
+Epoch: 0401 cost=0.391651591
+Epoch: 0501 cost=0.356450780
+Optimization finished
+Train Accuracy: 0.87266666
+Validation Accuracy: 0.853
+layers:  2 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=2.764533811
+Epoch: 0101 cost=1.188921279
+Epoch: 0201 cost=0.643780669
+Epoch: 0301 cost=0.437953740
+Epoch: 0401 cost=0.381344924
+Epoch: 0501 cost=0.370077832
+Optimization finished
+Train Accuracy: 0.8718889
+Validation Accuracy: 0.86
+layers:  2 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=10.258398162
+Epoch: 0101 cost=1.428078983
+Epoch: 0201 cost=0.912930681
+Epoch: 0301 cost=0.530658046
+Epoch: 0401 cost=0.396339569
+Epoch: 0501 cost=0.362859299
+Optimization finished
+Train Accuracy: 0.8705556
+Validation Accuracy: 0.887
+layers:  3 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.231898679
+Epoch: 0101 cost=1.601681511
+Epoch: 0201 cost=1.560549034
+Epoch: 0301 cost=1.315048774
+Epoch: 0401 cost=1.077624361
+Epoch: 0501 cost=0.975134386
+Optimization finished
+Train Accuracy: 0.5918889
+Validation Accuracy: 0.596
+layers:  3 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.696008788
+Epoch: 0101 cost=1.608279943
+Epoch: 0201 cost=1.606232325
+Epoch: 0301 cost=1.594096356
+Epoch: 0401 cost=1.463847836
+Epoch: 0501 cost=1.091146893
+Optimization finished
+Train Accuracy: 0.5784444
+Validation Accuracy: 0.574
+layers:  3 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=1.762303683
+Epoch: 0101 cost=1.607709659
+Epoch: 0201 cost=1.589943661
+Epoch: 0301 cost=1.298609363
+Epoch: 0401 cost=1.051104413
+Epoch: 0501 cost=0.962832961
+Optimization finished
+Train Accuracy: 0.58
+Validation Accuracy: 0.584
+layers:  3 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.003565987
+Epoch: 0101 cost=1.606680738
+Epoch: 0201 cost=1.588112036
+Epoch: 0301 cost=1.282642550
+Epoch: 0401 cost=0.994677696
+Epoch: 0501 cost=0.863761028
+Optimization finished
+Train Accuracy: 0.67444444
+Validation Accuracy: 0.657
+layers:  3 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=3.386559142
+Epoch: 0101 cost=1.613429215
+Epoch: 0201 cost=1.606687042
+Epoch: 0301 cost=1.601249933
+Epoch: 0401 cost=1.557749788
+Epoch: 0501 cost=1.237887767
+Optimization finished
+Train Accuracy: 0.59444445
+Validation Accuracy: 0.603
+layers:  3 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.126447651
+Epoch: 0101 cost=1.608432598
+Epoch: 0201 cost=1.603518685
+Epoch: 0301 cost=1.475345095
+Epoch: 0401 cost=1.083432608
+Epoch: 0501 cost=0.933737199
+Optimization finished
+Train Accuracy: 0.5515556
+Validation Accuracy: 0.579
+layers:  3 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=1.725298100
+Epoch: 0101 cost=1.606289917
+Epoch: 0201 cost=1.593859580
+Epoch: 0301 cost=1.433045970
+Epoch: 0401 cost=1.104848968
+Epoch: 0501 cost=0.956669377
+Optimization finished
+Train Accuracy: 0.59844446
+Validation Accuracy: 0.622
+layers:  3 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=1.774178717
+Epoch: 0101 cost=1.607076274
+Epoch: 0201 cost=1.579705940
+Epoch: 0301 cost=1.275983241
+Epoch: 0401 cost=0.985211200
+Epoch: 0501 cost=0.870785885
+Optimization finished
+Train Accuracy: 0.6722222
+Validation Accuracy: 0.656
+layers:  3 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.141188277
+Epoch: 0101 cost=1.602079683
+Epoch: 0201 cost=1.577857720
+Epoch: 0301 cost=1.414632771
+Epoch: 0401 cost=1.119781905
+Epoch: 0501 cost=0.932718462
+Optimization finished
+Train Accuracy: 0.6208889
+Validation Accuracy: 0.601
+layers:  3 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=1.946744389
+Epoch: 0101 cost=1.604458650
+Epoch: 0201 cost=1.590484420
+Epoch: 0301 cost=1.409918692
+Epoch: 0401 cost=1.078780466
+Epoch: 0501 cost=0.953989579
+Optimization finished
+Train Accuracy: 0.6108889
+Validation Accuracy: 0.623
+layers:  3 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.388811164
+Epoch: 0101 cost=1.596911364
+Epoch: 0201 cost=1.462604947
+Epoch: 0301 cost=0.971535040
+Epoch: 0401 cost=0.656367997
+Epoch: 0501 cost=0.483978219
+Optimization finished
+Train Accuracy: 0.84833336
+Validation Accuracy: 0.847
+layers:  3 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.712343348
+Epoch: 0101 cost=1.591918177
+Epoch: 0201 cost=1.424149288
+Epoch: 0301 cost=0.987377604
+Epoch: 0401 cost=0.761858430
+Epoch: 0501 cost=0.588944985
+Optimization finished
+Train Accuracy: 0.8142222
+Validation Accuracy: 0.807
+layers:  3 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=1.974063661
+Epoch: 0101 cost=1.590750615
+Epoch: 0201 cost=1.364957319
+Epoch: 0301 cost=0.798499578
+Epoch: 0401 cost=0.532827093
+Epoch: 0501 cost=0.416770852
+Optimization finished
+Train Accuracy: 0.86255556
+Validation Accuracy: 0.866
+layers:  3 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=3.764053424
+Epoch: 0101 cost=1.600420091
+Epoch: 0201 cost=1.548508379
+Epoch: 0301 cost=1.199834400
+Epoch: 0401 cost=0.881530437
+Epoch: 0501 cost=0.665155576
+Optimization finished
+Train Accuracy: 0.7902222
+Validation Accuracy: 0.786
+layers:  3 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=1.942129824
+Epoch: 0101 cost=1.588965019
+Epoch: 0201 cost=1.310580134
+Epoch: 0301 cost=0.821610822
+Epoch: 0401 cost=0.594221473
+Epoch: 0501 cost=0.516986758
+Optimization finished
+Train Accuracy: 0.8197778
+Validation Accuracy: 0.82
+layers:  3 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.249863757
+Epoch: 0101 cost=1.593640698
+Epoch: 0201 cost=1.250633531
+Epoch: 0301 cost=0.820540057
+Epoch: 0401 cost=0.573714448
+Epoch: 0501 cost=0.516882228
+Optimization finished
+Train Accuracy: 0.82677776
+Validation Accuracy: 0.806
+layers:  3 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=3.659526772
+Epoch: 0101 cost=1.604793747
+Epoch: 0201 cost=1.579834104
+Epoch: 0301 cost=1.389302452
+Epoch: 0401 cost=0.810458793
+Epoch: 0501 cost=0.597472780
+Optimization finished
+Train Accuracy: 0.81622225
+Validation Accuracy: 0.827
+layers:  3 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=3.950203207
+Epoch: 0101 cost=1.590514196
+Epoch: 0201 cost=1.518093838
+Epoch: 0301 cost=1.145411187
+Epoch: 0401 cost=0.830512676
+Epoch: 0501 cost=0.584396561
+Optimization finished
+Train Accuracy: 0.83177775
+Validation Accuracy: 0.821
+layers:  3 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=3.062746525
+Epoch: 0101 cost=1.587890890
+Epoch: 0201 cost=1.432827910
+Epoch: 0301 cost=1.115807851
+Epoch: 0401 cost=0.980931699
+Epoch: 0501 cost=0.925180296
+Optimization finished
+Train Accuracy: 0.61766666
+Validation Accuracy: 0.615
+layers:  3 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.140049113
+Epoch: 0101 cost=1.600284961
+Epoch: 0201 cost=1.329501881
+Epoch: 0301 cost=0.930713137
+Epoch: 0401 cost=0.620702485
+Epoch: 0501 cost=0.491820362
+Optimization finished
+Train Accuracy: 0.8381111
+Validation Accuracy: 0.868
+layers:  3 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=3.673625151
+Epoch: 0101 cost=1.509556095
+Epoch: 0201 cost=0.982335892
+Epoch: 0301 cost=0.616295603
+Epoch: 0401 cost=0.501062933
+Epoch: 0501 cost=0.428558393
+Optimization finished
+Train Accuracy: 0.853
+Validation Accuracy: 0.845
+layers:  3 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=2.592072778
+Epoch: 0101 cost=1.578529398
+Epoch: 0201 cost=1.132017162
+Epoch: 0301 cost=0.744106438
+Epoch: 0401 cost=0.548055801
+Epoch: 0501 cost=0.436608596
+Optimization finished
+Train Accuracy: 0.8525556
+Validation Accuracy: 0.849
+layers:  3 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=3.852739731
+Epoch: 0101 cost=1.587713401
+Epoch: 0201 cost=1.337744130
+Epoch: 0301 cost=0.707553552
+Epoch: 0401 cost=0.460898886
+Epoch: 0501 cost=0.402767516
+Optimization finished
+Train Accuracy: 0.85455555
+Validation Accuracy: 0.851
+layers:  3 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=2.547703425
+Epoch: 0101 cost=1.577486965
+Epoch: 0201 cost=1.146423300
+Epoch: 0301 cost=0.790097972
+Epoch: 0401 cost=0.532672260
+Epoch: 0501 cost=0.466555274
+Optimization finished
+Train Accuracy: 0.8474444
+Validation Accuracy: 0.848
+layers:  3 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=4.490755558
+Epoch: 0101 cost=1.578285999
+Epoch: 0201 cost=1.390310009
+Epoch: 0301 cost=0.775351372
+Epoch: 0401 cost=0.546243191
+Epoch: 0501 cost=0.488007764
+Optimization finished
+Train Accuracy: 0.83544445
+Validation Accuracy: 0.835
+layers:  3 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=3.467707131
+Epoch: 0101 cost=1.547622363
+Epoch: 0201 cost=1.042139808
+Epoch: 0301 cost=0.617410057
+Epoch: 0401 cost=0.461158593
+Epoch: 0501 cost=0.397376620
+Optimization finished
+Train Accuracy: 0.85566664
+Validation Accuracy: 0.848
+layers:  3 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=3.214187463
+Epoch: 0101 cost=1.558594757
+Epoch: 0201 cost=1.049037576
+Epoch: 0301 cost=0.650466045
+Epoch: 0401 cost=0.478951461
+Epoch: 0501 cost=0.406216701
+Optimization finished
+Train Accuracy: 0.8606667
+Validation Accuracy: 0.866
+layers:  3 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=3.300422907
+Epoch: 0101 cost=1.573771715
+Epoch: 0201 cost=1.106137289
+Epoch: 0301 cost=0.736285388
+Epoch: 0401 cost=0.500965423
+Epoch: 0501 cost=0.395169795
+Optimization finished
+Train Accuracy: 0.8622222
+Validation Accuracy: 0.846
+layers:  3 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=2.888189051
+Epoch: 0101 cost=1.483405550
+Epoch: 0201 cost=0.935473164
+Epoch: 0301 cost=0.680719064
+Epoch: 0401 cost=0.479606691
+Epoch: 0501 cost=0.401961380
+Optimization finished
+Train Accuracy: 0.858
+Validation Accuracy: 0.849
+layers:  3 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=3.816453669
+Epoch: 0101 cost=1.577922689
+Epoch: 0201 cost=1.315128141
+Epoch: 0301 cost=0.809059699
+Epoch: 0401 cost=0.568849636
+Epoch: 0501 cost=0.446517646
+Optimization finished
+Train Accuracy: 0.85333335
+Validation Accuracy: 0.872
+layers:  3 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=2.633323034
+Epoch: 0101 cost=1.427658452
+Epoch: 0201 cost=0.900544882
+Epoch: 0301 cost=0.563823058
+Epoch: 0401 cost=0.418180472
+Epoch: 0501 cost=0.378082650
+Optimization finished
+Train Accuracy: 0.86344445
+Validation Accuracy: 0.848
+layers:  3 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=3.185497204
+Epoch: 0101 cost=1.563031488
+Epoch: 0201 cost=0.989636905
+Epoch: 0301 cost=0.564645284
+Epoch: 0401 cost=0.445363237
+Epoch: 0501 cost=0.402042250
+Optimization finished
+Train Accuracy: 0.86333334
+Validation Accuracy: 0.873
+layers:  3 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=4.247084883
+Epoch: 0101 cost=1.573636942
+Epoch: 0201 cost=0.860542880
+Epoch: 0301 cost=0.482433097
+Epoch: 0401 cost=0.389864865
+Epoch: 0501 cost=0.371354163
+Optimization finished
+Train Accuracy: 0.8665556
+Validation Accuracy: 0.871
+layers:  3 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=2.609279341
+Epoch: 0101 cost=1.489353153
+Epoch: 0201 cost=0.758442455
+Epoch: 0301 cost=0.486914645
+Epoch: 0401 cost=0.407272610
+Epoch: 0501 cost=0.359302140
+Optimization finished
+Train Accuracy: 0.86388886
+Validation Accuracy: 0.866
+layers:  3 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=3.956885735
+Epoch: 0101 cost=1.561038547
+Epoch: 0201 cost=0.928248637
+Epoch: 0301 cost=0.478302075
+Epoch: 0401 cost=0.402934564
+Epoch: 0501 cost=0.381505509
+Optimization finished
+Train Accuracy: 0.86355555
+Validation Accuracy: 0.87
+layers:  3 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=5.929760456
+Epoch: 0101 cost=1.586458829
+Epoch: 0201 cost=1.141468035
+Epoch: 0301 cost=0.581964195
+Epoch: 0401 cost=0.416456259
+Epoch: 0501 cost=0.384992046
+Optimization finished
+Train Accuracy: 0.86355555
+Validation Accuracy: 0.843
+layers:  3 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=2.470976618
+Epoch: 0101 cost=1.370748096
+Epoch: 0201 cost=0.780932201
+Epoch: 0301 cost=0.530910936
+Epoch: 0401 cost=0.408258590
+Epoch: 0501 cost=0.384172897
+Optimization finished
+Train Accuracy: 0.86266667
+Validation Accuracy: 0.881
+layers:  3 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=2.645767318
+Epoch: 0101 cost=1.512088882
+Epoch: 0201 cost=0.924040655
+Epoch: 0301 cost=0.489257511
+Epoch: 0401 cost=0.395113875
+Epoch: 0501 cost=0.371325870
+Optimization finished
+Train Accuracy: 0.87288886
+Validation Accuracy: 0.855
+layers:  3 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=2.942507558
+Epoch: 0101 cost=1.491213984
+Epoch: 0201 cost=0.825861911
+Epoch: 0301 cost=0.495647824
+Epoch: 0401 cost=0.393283486
+Epoch: 0501 cost=0.380940557
+Optimization finished
+Train Accuracy: 0.8656667
+Validation Accuracy: 0.836
+layers:  3 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=3.001302613
+Epoch: 0101 cost=1.552486711
+Epoch: 0201 cost=0.925539063
+Epoch: 0301 cost=0.560512139
+Epoch: 0401 cost=0.431953116
+Epoch: 0501 cost=0.366604636
+Optimization finished
+Train Accuracy: 0.866
+Validation Accuracy: 0.884
+layers:  3 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=2.194217179
+Epoch: 0101 cost=0.620160308
+Epoch: 0201 cost=0.377803448
+Epoch: 0301 cost=0.351376841
+Epoch: 0401 cost=0.347665975
+Epoch: 0501 cost=0.338803043
+Optimization finished
+Train Accuracy: 0.87711114
+Validation Accuracy: 0.861
+layers:  3 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=3.429538780
+Epoch: 0101 cost=0.621937891
+Epoch: 0201 cost=0.386386209
+Epoch: 0301 cost=0.346461028
+Epoch: 0401 cost=0.361319337
+Epoch: 0501 cost=0.361071087
+Optimization finished
+Train Accuracy: 0.8741111
+Validation Accuracy: 0.876
+layers:  3 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=2.561680582
+Epoch: 0101 cost=0.614106099
+Epoch: 0201 cost=0.372622987
+Epoch: 0301 cost=0.361599194
+Epoch: 0401 cost=0.365528378
+Epoch: 0501 cost=0.358691083
+Optimization finished
+Train Accuracy: 0.87366664
+Validation Accuracy: 0.872
+layers:  3 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=4.499199602
+Epoch: 0101 cost=0.695852882
+Epoch: 0201 cost=0.384263247
+Epoch: 0301 cost=0.364142189
+Epoch: 0401 cost=0.361923738
+Epoch: 0501 cost=0.347038779
+Optimization finished
+Train Accuracy: 0.87344444
+Validation Accuracy: 0.88
+layers:  3 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=5.323347621
+Epoch: 0101 cost=0.753762689
+Epoch: 0201 cost=0.420142859
+Epoch: 0301 cost=0.361020568
+Epoch: 0401 cost=0.359887567
+Epoch: 0501 cost=0.344245046
+Optimization finished
+Train Accuracy: 0.8742222
+Validation Accuracy: 0.872
+layers:  3 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=3.439543221
+Epoch: 0101 cost=0.680221233
+Epoch: 0201 cost=0.392266522
+Epoch: 0301 cost=0.372370544
+Epoch: 0401 cost=0.347019798
+Epoch: 0501 cost=0.346588943
+Optimization finished
+Train Accuracy: 0.8702222
+Validation Accuracy: 0.863
+layers:  3 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=1.655874636
+Epoch: 0101 cost=0.632216507
+Epoch: 0201 cost=0.381926580
+Epoch: 0301 cost=0.360669782
+Epoch: 0401 cost=0.343800475
+Epoch: 0501 cost=0.360457463
+Optimization finished
+Train Accuracy: 0.87222224
+Validation Accuracy: 0.887
+layers:  3 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=4.879658116
+Epoch: 0101 cost=0.824945907
+Epoch: 0201 cost=0.405724459
+Epoch: 0301 cost=0.347923491
+Epoch: 0401 cost=0.355056365
+Epoch: 0501 cost=0.355469985
+Optimization finished
+Train Accuracy: 0.8753333
+Validation Accuracy: 0.859
+layers:  3 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=4.404603667
+Epoch: 0101 cost=0.798973805
+Epoch: 0201 cost=0.384565956
+Epoch: 0301 cost=0.355413632
+Epoch: 0401 cost=0.346038020
+Epoch: 0501 cost=0.348174142
+Optimization finished
+Train Accuracy: 0.8761111
+Validation Accuracy: 0.86
+layers:  3 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=1.938613865
+Epoch: 0101 cost=0.541165716
+Epoch: 0201 cost=0.380867448
+Epoch: 0301 cost=0.368650032
+Epoch: 0401 cost=0.361241043
+Epoch: 0501 cost=0.366213597
+Optimization finished
+Train Accuracy: 0.8717778
+Validation Accuracy: 0.883
+layers:  4 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.641740402
+Epoch: 0101 cost=1.609346350
+Epoch: 0201 cost=1.608814425
+Epoch: 0301 cost=1.607780748
+Epoch: 0401 cost=1.601032946
+Epoch: 0501 cost=1.200315966
+Optimization finished
+Train Accuracy: 0.52111113
+Validation Accuracy: 0.484
+layers:  4 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=1.889960196
+Epoch: 0101 cost=1.609113071
+Epoch: 0201 cost=1.606144534
+Epoch: 0301 cost=1.157970389
+Epoch: 0401 cost=0.856691731
+Epoch: 0501 cost=0.778395434
+Optimization finished
+Train Accuracy: 0.688
+Validation Accuracy: 0.701
+layers:  4 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.931516647
+Epoch: 0101 cost=1.609257791
+Epoch: 0201 cost=1.607501600
+Epoch: 0301 cost=1.597884695
+Epoch: 0401 cost=1.317580462
+Epoch: 0501 cost=0.979171058
+Optimization finished
+Train Accuracy: 0.5602222
+Validation Accuracy: 0.548
+layers:  4 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=3.110078997
+Epoch: 0101 cost=1.608925647
+Epoch: 0201 cost=1.608061155
+Epoch: 0301 cost=1.599558645
+Epoch: 0401 cost=1.213960489
+Epoch: 0501 cost=0.925256325
+Optimization finished
+Train Accuracy: 0.6303333
+Validation Accuracy: 0.626
+layers:  4 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.443579435
+Epoch: 0101 cost=1.609040684
+Epoch: 0201 cost=1.601491584
+Epoch: 0301 cost=1.302241683
+Epoch: 0401 cost=1.024381664
+Epoch: 0501 cost=0.873187807
+Optimization finished
+Train Accuracy: 0.61322224
+Validation Accuracy: 0.633
+layers:  4 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.708992667
+Epoch: 0101 cost=1.607699116
+Epoch: 0201 cost=1.601296968
+Epoch: 0301 cost=1.445316606
+Epoch: 0401 cost=0.984440049
+Epoch: 0501 cost=0.819369813
+Optimization finished
+Train Accuracy: 0.6854445
+Validation Accuracy: 0.668
+layers:  4 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.387795316
+Epoch: 0101 cost=1.609105746
+Epoch: 0201 cost=1.606468638
+Epoch: 0301 cost=1.521980723
+Epoch: 0401 cost=1.082678848
+Epoch: 0501 cost=0.895900614
+Optimization finished
+Train Accuracy: 0.6257778
+Validation Accuracy: 0.64
+layers:  4 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=1.988384485
+Epoch: 0101 cost=1.606221490
+Epoch: 0201 cost=1.556134714
+Epoch: 0301 cost=1.082530843
+Epoch: 0401 cost=0.906579812
+Epoch: 0501 cost=0.794606255
+Optimization finished
+Train Accuracy: 0.6844444
+Validation Accuracy: 0.666
+layers:  4 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=2.067699088
+Epoch: 0101 cost=1.608899315
+Epoch: 0201 cost=1.607435279
+Epoch: 0301 cost=1.523230871
+Epoch: 0401 cost=1.014030112
+Epoch: 0501 cost=0.865654575
+Optimization finished
+Train Accuracy: 0.6472222
+Validation Accuracy: 0.663
+layers:  4 nodes:  5 data:  lda_reduced
+Epoch: 0001 cost=3.496727520
+Epoch: 0101 cost=1.608252128
+Epoch: 0201 cost=1.605968899
+Epoch: 0301 cost=1.595722980
+Epoch: 0401 cost=1.344975154
+Epoch: 0501 cost=0.955782354
+Optimization finished
+Train Accuracy: 0.63766664
+Validation Accuracy: 0.637
+layers:  4 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=3.311664369
+Epoch: 0101 cost=1.599067900
+Epoch: 0201 cost=1.300265458
+Epoch: 0301 cost=0.819315023
+Epoch: 0401 cost=0.627222776
+Epoch: 0501 cost=0.541827831
+Optimization finished
+Train Accuracy: 0.8118889
+Validation Accuracy: 0.817
+layers:  4 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=3.154936896
+Epoch: 0101 cost=1.605160329
+Epoch: 0201 cost=1.552410192
+Epoch: 0301 cost=1.040535993
+Epoch: 0401 cost=0.823181788
+Epoch: 0501 cost=0.661920057
+Optimization finished
+Train Accuracy: 0.77977777
+Validation Accuracy: 0.77
+layers:  4 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.808936967
+Epoch: 0101 cost=1.607925627
+Epoch: 0201 cost=1.588376482
+Epoch: 0301 cost=0.995172090
+Epoch: 0401 cost=0.591682116
+Epoch: 0501 cost=0.498738027
+Optimization finished
+Train Accuracy: 0.82944447
+Validation Accuracy: 0.819
+layers:  4 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.133793328
+Epoch: 0101 cost=1.594873389
+Epoch: 0201 cost=1.108863486
+Epoch: 0301 cost=0.893863539
+Epoch: 0401 cost=0.737258070
+Epoch: 0501 cost=0.562251932
+Optimization finished
+Train Accuracy: 0.8117778
+Validation Accuracy: 0.807
+layers:  4 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=4.000466373
+Epoch: 0101 cost=1.605567031
+Epoch: 0201 cost=1.574806717
+Epoch: 0301 cost=0.893064658
+Epoch: 0401 cost=0.673410376
+Epoch: 0501 cost=0.607034418
+Optimization finished
+Train Accuracy: 0.7671111
+Validation Accuracy: 0.77
+layers:  4 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=3.802233405
+Epoch: 0101 cost=1.606151369
+Epoch: 0201 cost=1.529449198
+Epoch: 0301 cost=0.928398318
+Epoch: 0401 cost=0.663680944
+Epoch: 0501 cost=0.498876661
+Optimization finished
+Train Accuracy: 0.817
+Validation Accuracy: 0.799
+layers:  4 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=3.389560699
+Epoch: 0101 cost=1.600839125
+Epoch: 0201 cost=1.205575665
+Epoch: 0301 cost=0.766575456
+Epoch: 0401 cost=0.524844037
+Epoch: 0501 cost=0.474342591
+Optimization finished
+Train Accuracy: 0.83111113
+Validation Accuracy: 0.848
+layers:  4 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.938099941
+Epoch: 0101 cost=1.605479651
+Epoch: 0201 cost=1.433801320
+Epoch: 0301 cost=0.880865998
+Epoch: 0401 cost=0.770276500
+Epoch: 0501 cost=0.716707561
+Optimization finished
+Train Accuracy: 0.7085556
+Validation Accuracy: 0.689
+layers:  4 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=2.251932859
+Epoch: 0101 cost=1.590885083
+Epoch: 0201 cost=1.024534451
+Epoch: 0301 cost=0.806445340
+Epoch: 0401 cost=0.693151090
+Epoch: 0501 cost=0.646446705
+Optimization finished
+Train Accuracy: 0.7462222
+Validation Accuracy: 0.729
+layers:  4 nodes:  10 data:  lda_reduced
+Epoch: 0001 cost=1.955407540
+Epoch: 0101 cost=1.545762353
+Epoch: 0201 cost=1.018564277
+Epoch: 0301 cost=0.885166718
+Epoch: 0401 cost=0.817302439
+Epoch: 0501 cost=0.722051528
+Optimization finished
+Train Accuracy: 0.73377776
+Validation Accuracy: 0.76
+layers:  4 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=3.863075574
+Epoch: 0101 cost=1.484483269
+Epoch: 0201 cost=0.935476906
+Epoch: 0301 cost=0.757674396
+Epoch: 0401 cost=0.706205308
+Epoch: 0501 cost=0.683997691
+Optimization finished
+Train Accuracy: 0.72933334
+Validation Accuracy: 0.708
+layers:  4 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=2.400150220
+Epoch: 0101 cost=1.526383042
+Epoch: 0201 cost=0.935653925
+Epoch: 0301 cost=0.719518986
+Epoch: 0401 cost=0.610600478
+Epoch: 0501 cost=0.476505180
+Optimization finished
+Train Accuracy: 0.84522223
+Validation Accuracy: 0.848
+layers:  4 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=3.213774363
+Epoch: 0101 cost=1.548551136
+Epoch: 0201 cost=0.957664768
+Epoch: 0301 cost=0.545849933
+Epoch: 0401 cost=0.466220309
+Epoch: 0501 cost=0.455102099
+Optimization finished
+Train Accuracy: 0.83644444
+Validation Accuracy: 0.832
+layers:  4 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=3.221470171
+Epoch: 0101 cost=1.578182697
+Epoch: 0201 cost=0.915216956
+Epoch: 0301 cost=0.610417446
+Epoch: 0401 cost=0.543135232
+Epoch: 0501 cost=0.497729881
+Optimization finished
+Train Accuracy: 0.8221111
+Validation Accuracy: 0.822
+layers:  4 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=2.900300927
+Epoch: 0101 cost=1.581671649
+Epoch: 0201 cost=1.045834290
+Epoch: 0301 cost=0.599213945
+Epoch: 0401 cost=0.510102795
+Epoch: 0501 cost=0.465753787
+Optimization finished
+Train Accuracy: 0.8271111
+Validation Accuracy: 0.844
+layers:  4 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=4.454627514
+Epoch: 0101 cost=1.591771166
+Epoch: 0201 cost=1.065187653
+Epoch: 0301 cost=0.522013485
+Epoch: 0401 cost=0.446613762
+Epoch: 0501 cost=0.405128118
+Optimization finished
+Train Accuracy: 0.8551111
+Validation Accuracy: 0.84
+layers:  4 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=3.193499989
+Epoch: 0101 cost=1.586743262
+Epoch: 0201 cost=1.119192971
+Epoch: 0301 cost=0.632962737
+Epoch: 0401 cost=0.442595962
+Epoch: 0501 cost=0.401800265
+Optimization finished
+Train Accuracy: 0.85477775
+Validation Accuracy: 0.874
+layers:  4 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=4.286327945
+Epoch: 0101 cost=1.581565473
+Epoch: 0201 cost=1.064480503
+Epoch: 0301 cost=0.662726833
+Epoch: 0401 cost=0.547156447
+Epoch: 0501 cost=0.457546555
+Optimization finished
+Train Accuracy: 0.84488887
+Validation Accuracy: 0.84
+layers:  4 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=2.925931745
+Epoch: 0101 cost=1.558086753
+Epoch: 0201 cost=0.901709735
+Epoch: 0301 cost=0.686186857
+Epoch: 0401 cost=0.544386791
+Epoch: 0501 cost=0.500603964
+Optimization finished
+Train Accuracy: 0.828
+Validation Accuracy: 0.812
+layers:  4 nodes:  15 data:  lda_reduced
+Epoch: 0001 cost=4.848869483
+Epoch: 0101 cost=1.593488720
+Epoch: 0201 cost=1.139572607
+Epoch: 0301 cost=0.815883954
+Epoch: 0401 cost=0.488356762
+Epoch: 0501 cost=0.388658351
+Optimization finished
+Train Accuracy: 0.8601111
+Validation Accuracy: 0.883
+layers:  4 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=4.138181951
+Epoch: 0101 cost=1.477816939
+Epoch: 0201 cost=0.645741522
+Epoch: 0301 cost=0.401926229
+Epoch: 0401 cost=0.368824955
+Epoch: 0501 cost=0.363958226
+Optimization finished
+Train Accuracy: 0.874
+Validation Accuracy: 0.863
+layers:  4 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=3.220794598
+Epoch: 0101 cost=1.483522442
+Epoch: 0201 cost=0.678067413
+Epoch: 0301 cost=0.479970922
+Epoch: 0401 cost=0.440783425
+Epoch: 0501 cost=0.392018057
+Optimization finished
+Train Accuracy: 0.8563333
+Validation Accuracy: 0.864
+layers:  4 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=3.482255565
+Epoch: 0101 cost=1.519506892
+Epoch: 0201 cost=0.563457323
+Epoch: 0301 cost=0.375637369
+Epoch: 0401 cost=0.357426789
+Epoch: 0501 cost=0.371701267
+Optimization finished
+Train Accuracy: 0.86877775
+Validation Accuracy: 0.876
+layers:  4 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=3.392481221
+Epoch: 0101 cost=1.438061224
+Epoch: 0201 cost=0.689978434
+Epoch: 0301 cost=0.471736176
+Epoch: 0401 cost=0.396505147
+Epoch: 0501 cost=0.381414152
+Optimization finished
+Train Accuracy: 0.85977775
+Validation Accuracy: 0.861
+layers:  4 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=3.989598354
+Epoch: 0101 cost=1.446402960
+Epoch: 0201 cost=0.880627109
+Epoch: 0301 cost=0.659464134
+Epoch: 0401 cost=0.524078952
+Epoch: 0501 cost=0.433136231
+Optimization finished
+Train Accuracy: 0.8472222
+Validation Accuracy: 0.867
+layers:  4 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=2.495499770
+Epoch: 0101 cost=1.286045988
+Epoch: 0201 cost=0.651344915
+Epoch: 0301 cost=0.480605635
+Epoch: 0401 cost=0.407556600
+Epoch: 0501 cost=0.393946840
+Optimization finished
+Train Accuracy: 0.8657778
+Validation Accuracy: 0.859
+layers:  4 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=2.165583478
+Epoch: 0101 cost=1.296412667
+Epoch: 0201 cost=0.701055732
+Epoch: 0301 cost=0.463213103
+Epoch: 0401 cost=0.436566350
+Epoch: 0501 cost=0.384103043
+Optimization finished
+Train Accuracy: 0.8567778
+Validation Accuracy: 0.875
+layers:  4 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=2.162535270
+Epoch: 0101 cost=1.163029048
+Epoch: 0201 cost=0.650240276
+Epoch: 0301 cost=0.532467425
+Epoch: 0401 cost=0.474776997
+Epoch: 0501 cost=0.402569436
+Optimization finished
+Train Accuracy: 0.8567778
+Validation Accuracy: 0.85
+layers:  4 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=5.794095675
+Epoch: 0101 cost=1.524933484
+Epoch: 0201 cost=0.724949830
+Epoch: 0301 cost=0.452646765
+Epoch: 0401 cost=0.361570487
+Epoch: 0501 cost=0.350074689
+Optimization finished
+Train Accuracy: 0.87133336
+Validation Accuracy: 0.847
+layers:  4 nodes:  20 data:  lda_reduced
+Epoch: 0001 cost=2.168060594
+Epoch: 0101 cost=1.202248904
+Epoch: 0201 cost=0.531108532
+Epoch: 0301 cost=0.440163268
+Epoch: 0401 cost=0.394370589
+Epoch: 0501 cost=0.391361091
+Optimization finished
+Train Accuracy: 0.862
+Validation Accuracy: 0.877
+layers:  4 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=7.829493470
+Epoch: 0101 cost=0.493576811
+Epoch: 0201 cost=0.373238938
+Epoch: 0301 cost=0.357885331
+Epoch: 0401 cost=0.364289469
+Epoch: 0501 cost=0.348612110
+Optimization finished
+Train Accuracy: 0.8746667
+Validation Accuracy: 0.863
+layers:  4 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=5.174580309
+Epoch: 0101 cost=0.491490887
+Epoch: 0201 cost=0.360013094
+Epoch: 0301 cost=0.335816330
+Epoch: 0401 cost=0.341898753
+Epoch: 0501 cost=0.355112172
+Optimization finished
+Train Accuracy: 0.8747778
+Validation Accuracy: 0.881
+layers:  4 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=5.616082033
+Epoch: 0101 cost=0.451937421
+Epoch: 0201 cost=0.364058849
+Epoch: 0301 cost=0.346574946
+Epoch: 0401 cost=0.351119820
+Epoch: 0501 cost=0.338989301
+Optimization finished
+Train Accuracy: 0.874
+Validation Accuracy: 0.876
+layers:  4 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=4.678308911
+Epoch: 0101 cost=0.498807023
+Epoch: 0201 cost=0.351740370
+Epoch: 0301 cost=0.344037222
+Epoch: 0401 cost=0.352454027
+Epoch: 0501 cost=0.358195778
+Optimization finished
+Train Accuracy: 0.87288886
+Validation Accuracy: 0.873
+layers:  4 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=6.550854842
+Epoch: 0101 cost=0.454358366
+Epoch: 0201 cost=0.353608943
+Epoch: 0301 cost=0.353457732
+Epoch: 0401 cost=0.354278608
+Epoch: 0501 cost=0.346558935
+Optimization finished
+Train Accuracy: 0.875
+Validation Accuracy: 0.881
+layers:  4 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=1.980777396
+Epoch: 0101 cost=0.443354352
+Epoch: 0201 cost=0.356254111
+Epoch: 0301 cost=0.359766937
+Epoch: 0401 cost=0.353122211
+Epoch: 0501 cost=0.350825061
+Optimization finished
+Train Accuracy: 0.87244445
+Validation Accuracy: 0.864
+layers:  4 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=3.856656339
+Epoch: 0101 cost=0.495491975
+Epoch: 0201 cost=0.382218745
+Epoch: 0301 cost=0.359152238
+Epoch: 0401 cost=0.355932173
+Epoch: 0501 cost=0.347500609
+Optimization finished
+Train Accuracy: 0.8712222
+Validation Accuracy: 0.887
+layers:  4 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=3.248006291
+Epoch: 0101 cost=0.492885166
+Epoch: 0201 cost=0.356211513
+Epoch: 0301 cost=0.348638233
+Epoch: 0401 cost=0.338492433
+Epoch: 0501 cost=0.341750301
+Optimization finished
+Train Accuracy: 0.8753333
+Validation Accuracy: 0.856
+layers:  4 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=9.869639185
+Epoch: 0101 cost=0.546456675
+Epoch: 0201 cost=0.345559441
+Epoch: 0301 cost=0.339235816
+Epoch: 0401 cost=0.335602969
+Epoch: 0501 cost=0.336310410
+Optimization finished
+Train Accuracy: 0.8744444
+Validation Accuracy: 0.86
+layers:  4 nodes:  50 data:  lda_reduced
+Epoch: 0001 cost=5.149059878
+Epoch: 0101 cost=0.524337570
+Epoch: 0201 cost=0.353519784
+Epoch: 0301 cost=0.355245438
+Epoch: 0401 cost=0.346777949
+Epoch: 0501 cost=0.344270163
+Optimization finished
+Train Accuracy: 0.8708889
+Validation Accuracy: 0.886
